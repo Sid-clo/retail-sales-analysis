@@ -1,0 +1,1219 @@
+order_id,order_date,customer_name,customer_segment,region,city,category,product_name,quantity,unit_price,discount,sales,profit
+ORD1306,2024-03-04,Rohan Gupta,Home Office,South,Hyderabad,Electronics,USB Cable,1,214.85,0.0,214.85,59.93
+ORD1622,2023-08-24,Anjali Rao,Corporate,West,Mumbai,Furniture,Study Table,1,5740.56,0.0,5740.56,1188.11
+ORD1704,2023-06-25,Pooja Rao,Consumer,East,Kolkata,Electronics,Bluetooth Speaker,1,1496.08,0.15,1496.08,402.17
+ORD1458,2024-07-04,Siddharth Das,Home Office,West,Pune,Stationery,Notebook Pack,1,211.76,0.0,211.76,58.97
+ORD1171,2023-04-13,Anjali Mehta,Home Office,South,Hyderabad,Electronics,Wireless Mouse,3,601.23,0.05,1803.69,
+ORD2174,2024-10-04,Rahul Chauhan,Corporate,West,Pune,Electronics,Laptop Stand,1,1319.43,0.0,1319.43,362.47
+ORD1191,2024-04-19,Pooja Das,Home Office,West,Mumbai,Stationery,Whiteboard,1,848.12,0.15,848.12,133.02
+ORD1035,2023-11-04,Siddharth Rao,Corporate,North,Lucknow,Clothing,Jacket,3,2589.56,0.0,7768.68,1478.12
+ORD2023,2023-09-10,Rohan Rao,Home Office,North,Delhi,Stationery,Sticky Notes,3,95.1,0.0,285.3,75.27
+ORD1489,2024-10-27,Siddharth Kapoor,Corporate,South,Hyderabad,Electronics,Power Bank,1,1052.52,0.1,1052.52,182.97
+ORD1494,2023-11-03,Pooja Rao,Corporate,West,Ahmedabad,Furniture,Desk Lamp,6,878.09,0.1,5268.54,1124.73
+ORD1883,2023-07-17,Arjun Mehta,Consumer,East,Bhubaneswar,Stationery,Sticky Notes,4,99.66,0.0,398.64,53.19
+ORD1645,2024-09-12,Riya Nair,,East,Patna,Stationery,Sticky Notes,1,95.71,0.0,95.71,28.16
+ORD1752,2024-06-29,Divya Rao,Corporate,West,Mumbai,Stationery,Whiteboard,2,830.91,0.05,1661.82,263.15
+ORD1819,2023-10-31,Priya Das,Consumer,West,Ahmedabad,Stationery,Stapler,5,126.89,0.05,634.45,64.21
+ORD1263,2023-06-09,Karan Mehta,Consumer, South ,Bangalore,Clothing,Jeans,2,1365.76,0.0,2731.52,550.08
+ORD1747,2024-01-19,Siddharth Rao,Corporate,West,Mumbai,Electronics,Bluetooth Speaker,4,1424.86,0.0,5699.44,1880.45
+ORD1364,2024-07-06,Neha Mehta,Consumer,west,Ahmedabad,Electronics,Wireless Mouse,2,612.0,0.0,1224.0,354.11
+ORD1064,2023-11-09,Sneha Singh,Consumer,West,Pune,Clothing,Jacket,7,2653.49,0.05,18574.43,4078.95
+ORD1447,2024-05-27,Rahul Sharma,Consumer,North,Chandigarh,Furniture,Filing Cabinet,1,3362.02,0.2,3362.02,441.72
+ORD1875,2024-03-23,Vikram Sharma,Home Office,East,Patna,Electronics,Laptop Stand,1,1268.46,0.0,1268.46,365.2
+ORD1359,2023-07-22,Karan Gupta,Consumer,West,Ahmedabad,Furniture,Bookshelf,1,3629.58,0.1,3629.58,
+ORD1421,2023-05-09,Neha Singh,Corporate,North,Delhi,Electronics,Bluetooth Speaker,3,1560.72,0.0,4682.16,774.99
+ORD1052,2023-05-04,Priya Gupta,Home Office,South,Bangalore,Stationery,Whiteboard,2,847.37,0.1,1694.74,309.8
+ORD1984,2023-07-23,Rohan Sharma,Corporate,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1567.0,0.05,1567.0,123.72
+ORD2101,2023-12-30,Manish Verma,Corporate,South,Chennai,Electronics,Laptop Stand,4,1273.39,0.0,5093.56,1643.68
+ORD2035,2024-04-28,Kavya Singh,Consumer,South,Chennai,Electronics,Webcam,2,1973.6,0.05,3947.2,1103.1
+ORD1789,2024-01-23,Sneha Patel,Home Office,South,Bangalore,Electronics,Wireless Mouse,5,598.42,0.2,2992.1,572.5
+ORD1745,2024-05-08,Amit Singh,Corporate,West,Pune,Furniture,Filing Cabinet,3,3449.24,0.0,10347.72,1893.46
+ORD1225,2024-10-16,Sneha Gupta,Corporate,South,Chennai,Electronics,Power Bank,3,1061.08,0.05,3183.24,700.48
+ORD1509,2024-01-27,Priya Verma,Home Office,South,Hyderabad,Clothing,T-Shirt,3,492.78,0.05,1478.34,465.2
+ORD1485,2023-07-03,Manish Kapoor,Corporate,West,Ahmedabad,Electronics,USB Cable,2,190.44,0.1,380.88,103.08
+ORD1190,2024-03-02,Anjali Singh,Home Office,north,Chandigarh,Clothing,Cap,1,314.59,0.0,314.59,50.64
+ORD2038,2023-12-14,Divya Nair,Corporate,South,Bangalore,Furniture,Office Chair,3,4886.32,0.05,14658.96,2491.17
+ORD1351,2023-08-04,Pooja Chauhan,Consumer,North,Delhi,Electronics,Webcam,2,1935.68,0.05,3871.36,1021.52
+ORD1265,2023-11-03,Siddharth Chauhan,Corporate,South,Bangalore,Stationery,Whiteboard,2,800.21,0.1,1600.42,123.14
+ORD1965,2023-11-17,Neha Iyer,Corporate,North,Chandigarh,Clothing,T-Shirt,3,480.94,0.1,1442.82,332.36
+ORD1099,2023-03-07,Sneha Reddy,Home Office,North,Delhi,Electronics,Bluetooth Speaker,2,1568.59,0.0,3137.18,909.98
+ORD2026,2024-12-20,Divya Iyer,Corporate,South,Bangalore,Clothing,Cap,3,290.1,0.0,870.3,260.17
+ORD1537,2023-05-20,Pooja Patel,Corporate,East,Kolkata,Electronics,Wireless Mouse,1,622.95,0.0,622.95,128.14
+ORD1446,2024-11-09,Siddharth Iyer,Corporate,East,Kolkata,Furniture,Office Chair,3,4792.33,0.15,14376.99,145.94
+ORD1047,2024-04-17,Karan Iyer,Corporate,North,Chandigarh,Furniture,Office Chair,2,4803.6,0.0,9607.2,1443.41
+ORD2052,2024-12-30,Karan Das,Corporate,South,Bangalore,Stationery,Pen Set,3,142.78,0.1,428.34,80.84
+ORD2139,2024-07-27,Amit Iyer,Consumer, South ,Hyderabad,Electronics,Webcam,2,1976.92,0.05,3953.84,642.31
+ORD1604,2024-08-26,Sneha Gupta,Home Office,north,Delhi,Electronics,Laptop Stand,1,1308.26,0.0,1308.26,293.1
+ORD1902,2023-12-08,Priya Joshi,Corporate,North,Chandigarh,Furniture,Desk Lamp,2,900.44,0.0,1800.88,323.87
+ORD1638,2023-07-12,Vikram Joshi,Consumer,North,Delhi,Electronics,Bluetooth Speaker,1,1445.86,0.15,1445.86,88.91
+ORD1504,2024-10-01,Amit Chauhan,Corporate,West,Ahmedabad,Electronics,Wireless Mouse,1,620.16,0.0,620.16,63.43
+ORD1769,2024-07-05,Divya Chauhan,Consumer,South,Hyderabad,Stationery,Stapler,1,126.28,0.15,126.28,11.4
+ORD1700,2024-10-16,Rohan Iyer,Corporate,South,Bangalore,Furniture,Office Chair,4,5071.34,0.05,20285.36,3670.94
+ORD1400,2024-05-02,Karan Nair,Corporate,north,Chandigarh,Electronics,Bluetooth Speaker,3,1435.75,0.1,4307.25,241.21
+ORD1740,2023-02-10,Divya Singh,Consumer,West,Ahmedabad,Clothing,Jeans,2,1281.02,0.05,2562.04,817.15
+ORD2110,2024-05-02,Manish Patel,Home Office,North,Chandigarh,Clothing,T-Shirt,1,501.29,0.0,501.29,96.28
+ORD1326,2024-02-26,Karan Sharma,Home Office,West,Pune,Stationery,Pen Set,2,150.91,0.0,301.82,29.31
+ORD1335,2024-06-27,Pooja Chauhan,Home Office,West,Ahmedabad,Furniture,Filing Cabinet,2,3191.79,0.1,6383.58,1145.03
+ORD1779,2024-05-10,Divya Kapoor,Consumer,West,Pune,Stationery,Notebook Pack,1,209.6,0.2,209.6,35.58
+ORD1208,2023-03-26,Vikram Rao,Corporate,West,,Stationery,Whiteboard,3,841.94,0.0,2525.82,461.21
+ORD2049,2023-09-07,Riya Iyer,Corporate,North,Delhi,Furniture,Bookshelf,2,3604.06,0.05,7208.12,491.48
+ORD1229,2024-12-28,Rahul Singh,Consumer,South,Chennai,Clothing,Cap,3,299.95,0.0,899.85,92.07
+ORD2089,2024-08-30,Priya Singh,Home Office,North,Delhi,Electronics,Laptop Stand,4,1356.12,0.0,5424.48,1856.29
+ORD1628,2024-02-13,Anjali Mehta,Corporate,West,Mumbai,Electronics,Bluetooth Speaker,3,1470.83,0.0,4412.49,1368.46
+ORD1386,2024-08-23,Amit Verma,Home Office,South,Bangalore,Clothing,Cap,1,297.78,0.0,297.78,25.06
+ORD1453,2023-05-15,Arjun Kapoor,Home Office,West,Ahmedabad,Clothing,Jacket,1,2423.42,0.0,2423.42,692.76
+ORD1102,2024-11-01,Manish Iyer,Corporate,East,Bhubaneswar,Furniture,Study Table,5,5776.4,0.1,28882.0,
+ORD1356,2023-11-02,Vikram Verma,Consumer,South,Bangalore,Stationery,Stapler,3,127.5,0.2,382.5,-6.5
+ORD1114,2024-03-22,Siddharth Chauhan,Corporate,West,Ahmedabad,Clothing,T-Shirt,-1,502.38,0.05,502.38,98.7
+ORD1610,2024-03-30,Siddharth Iyer,Home Office,East,Bhubaneswar,Stationery,Notebook Pack,1,205.64,0.1,205.64,
+ORD2183,2023-11-04,Karan Das,Consumer,East,Kolkata,Electronics,USB Cable,4,191.86,0.0,767.44,102.71
+ORD2063,2023-09-08,Kavya Singh,Consumer,East,Kolkata,Electronics,Wireless Mouse,2,585.17,0.05,1170.34,204.56
+ORD1637,2024-09-23,Siddharth Singh,Corporate, West ,Pune,Stationery,Stapler,1,134.72,0.0,134.72,35.29
+ORD1852,2024-11-30,Amit Patel,,East,,Clothing,Cap,4,285.61,0.0,1142.44,398.93
+ORD1778,2023-03-26,Kavya Sharma,Home Office,West,Pune,Stationery,Sticky Notes,1,98.78,0.0,98.78,25.01
+ORD1524,2024-10-31,Priya Iyer,Home Office,South,Hyderabad,Furniture,Office Chair,1,4773.02,0.0,4773.02,
+ORD1519,2024-05-08,Neha Gupta,Home Office,North,Lucknow,Electronics,USB Cable,3,213.73,0.0,641.19,143.97
+ORD1455,2023-08-20,Rahul Nair,Corporate,East,Kolkata,Clothing,Cap,1,302.47,0.0,302.47,86.64
+ORD2165,2023-01-16,Sneha Nair,Consumer,East,Kolkata,Stationery,Sticky Notes,2,96.71,0.0,193.42,35.4
+ORD1751,2024-02-12,Amit Das,Consumer,South,Bangalore,Electronics,Wireless Mouse,4,619.23,0.1,2476.92,725.79
+ORD1010,2023-12-15,Rahul Rao,Home Office,North,Lucknow,Stationery,Stapler,3,135.14,0.0,405.42,49.75
+ORD1054,2024-07-05,Arjun Gupta,Consumer,South,Chennai,Electronics,Webcam,1,2042.4,0.1,2042.4,317.63
+ORD2191,2023-10-27,Riya Sharma,Home Office,West,Mumbai,Electronics,Power Bank,2,974.65,0.0,1949.3,673.61
+ORD1880,2023-02-02,Neha Reddy,Home Office,South,Chennai,Electronics,Bluetooth Speaker,2,1552.6,0.0,3105.2,535.83
+ORD1397,2024-12-18,Manish Patel,Home Office,West,Ahmedabad,Electronics,Bluetooth Speaker,2,1521.25,0.0,3042.5,572.48
+ORD2185,2024-05-13,Priya Joshi,Consumer,South,Bangalore,Furniture,Study Table,3,5890.66,0.0,17671.98,5865.6
+ORD2170,2023-10-19,Arjun Verma,Consumer,South,Hyderabad,Electronics,Power Bank,4,1041.91,0.0,4167.64,1296.08
+ORD1206,2023-04-11,Karan Kapoor,Home Office,South,Hyderabad,Stationery,Stapler,1,135.05,0.0,135.05,41.39
+ORD1971,2024-07-21,Sneha Patel,Consumer,South,Bangalore,Clothing,T-Shirt,2,484.87,0.1,969.74,152.12
+ORD1884,2024-09-02,Sneha Kapoor,Corporate,East,Kolkata,Stationery,Sticky Notes,2,99.63,0.1,199.26,49.87
+ORD1587,2024-05-17,Riya Reddy,Home Office,South,Chennai,Stationery,Sticky Notes,2,103.88,0.05,207.76,49.87
+ORD1468,2023-11-03,Amit Singh,Corporate,South,Chennai,Stationery,Whiteboard,2,855.8,0.0,1711.6,312.05
+ORD2121,2024-11-27,Kavya Chauhan,Home Office,East,Patna,Electronics,Webcam,1,1845.22,0.05,1845.22,
+ORD1774,2024-12-13,Rohan Singh,Home Office,North,Lucknow,Electronics,Power Bank,2,970.31,0.0,1940.62,231.13
+ORD1856,2024-11-29,Kavya Rao,Home Office,East,Bhubaneswar,Electronics,USB Cable,1,202.14,0.05,202.14,
+ORD1837,2024-12-11,Rahul Iyer,Consumer,South,Chennai,Electronics,Power Bank,2,1003.83,0.1,2007.66,187.72
+ORD2163,2023-11-07,Priya Chauhan,Home Office,South,Hyderabad,Electronics,Wireless Mouse,2,610.66,0.0,1221.32,415.65
+ORD1472,2024-10-02,Pooja Mehta,Consumer,South,Hyderabad,Electronics,Bluetooth Speaker,1,1424.36,0.1,1424.36,122.47
+ORD1507,2024-03-26,Neha Sharma,Home Office,South,Chennai,Stationery,Sticky Notes,1,103.96,0.1,103.96,7.81
+ORD1668,2024-02-09,Manish Rao,Corporate,East,Kolkata,Stationery,Stapler,1,129.42,0.0,129.42,11.95
+ORD1456,2024-03-25,Karan Chauhan,Corporate,South,Hyderabad,Stationery,Pen Set,1,156.23,0.15,156.23,21.45
+ORD1686,2023-05-12,Kavya Das,Home Office,South,Hyderabad,Stationery,Stapler,1,132.03,0.1,132.03,8.5
+ORD1264,2023-06-11,Priya Iyer,Corporate,East,Kolkata,Furniture,Study Table,1,5905.72,0.1,5905.72,662.26
+ORD1475,2024-07-03,Pooja Rao,Consumer,West,Mumbai,Stationery,Sticky Notes,2,96.05,0.15,192.1,24.95
+ORD2124,2023-09-06,Pooja Mehta,Home Office,South,Bangalore,Furniture,Desk Lamp,3,943.41,0.0,2830.23,348.26
+ORD1111,2023-10-24,Pooja Patel,Consumer,North,Delhi,Electronics,Bluetooth Speaker,4,1573.58,0.0,6294.32,1348.84
+ORD1375,2024-05-31,Sneha Patel,Corporate,North,Delhi,Electronics,Bluetooth Speaker,1,1445.21,0.05,1445.21,402.0
+ORD2048,2023-09-21,Amit Chauhan,Corporate,North,Chandigarh,Clothing,Jacket,1,2511.32,0.1,2511.32,578.92
+ORD1548,2023-04-22,Vikram Reddy,Consumer,North,Delhi,Electronics,Bluetooth Speaker,5,1480.25,0.0,7401.25,815.96
+ORD2198,2023-03-25,Amit Sharma,Corporate,North,Lucknow,Electronics,Power Bank,4,967.06,0.0,3868.24,1059.62
+ORD1084,2024-04-15,Manish Nair,Home Office,South,Chennai,Clothing,Jeans,2,1273.26,0.0,2546.52,210.18
+ORD1281,2023-06-20,Siddharth Gupta,Home Office,North,Lucknow,Electronics,USB Cable,2,200.39,0.15,400.78,55.36
+ORD1110,2024-06-23,Siddharth Kapoor,Consumer,North,Chandigarh,Furniture,Bookshelf,2,3632.55,0.05,7265.1,
+ORD1055,2024-11-15,Karan Patel,Corporate,North,Chandigarh,Clothing,Jeans,3,1360.78,0.0,4082.34,871.43
+ORD2071,2023-08-05,Rahul Nair,Corporate,South,Bangalore,Stationery,Sticky Notes,1,97.36,0.05,97.36,9.25
+ORD1173,2023-10-24,Sneha Gupta,Corporate,South,Bangalore,Clothing,Cap,1,314.68,0.0,314.68,73.43
+ORD1649,2023-07-30,Divya Rao,Corporate,North,Lucknow,Electronics,Wireless Mouse,1,582.06,0.15,582.06,27.59
+ORD1279,2024-05-23,Kavya Gupta,Corporate,North,Delhi,Stationery,Stapler,2,126.25,0.0,252.5,71.01
+ORD1612,2023-07-23,Siddharth Mehta,Home Office,South,Chennai,Electronics,Webcam,3,2008.15,0.0,6024.45,1079.89
+ORD1129,2023-08-16,Rahul Mehta,Consumer,South,Chennai,Furniture,Filing Cabinet,2,3197.24,0.1,6394.48,1719.16
+ORD1413,2024-10-14,Riya Iyer,Corporate,East,Bhubaneswar,Electronics,Wireless Mouse,2,583.25,0.05,1166.5,149.87
+ORD1098,2023-05-15,Kavya Kapoor,Corporate,South,Hyderabad,Electronics,Bluetooth Speaker,4,1445.47,0.0,5781.88,1695.8
+ORD2034,2023-09-08,Neha Sharma,Corporate,East,Bhubaneswar,Electronics,Bluetooth Speaker,2,1591.2,0.0,3182.4,731.77
+ORD1142,2024-09-14,Vikram Verma,Consumer,West,Pune,Furniture,Desk Lamp,1,965.4,0.05,965.4,167.31
+ORD1147,2023-08-31,Neha Reddy,Home Office,South,Chennai,Furniture,Office Chair,3,5389.26,0.1,16167.78,599.77
+ORD1180,2024-06-01,Anjali Gupta,Home Office,East,Kolkata,Clothing,T-Shirt,2,478.06,0.0,956.12,215.03
+ORD2134,2023-12-03,Rahul Rao,Corporate,West,Ahmedabad,Clothing,Jeans,1,1329.79,0.0,1329.79,254.36
+ORD1979,2023-07-19,Rahul Gupta,Consumer,South,Bangalore,Furniture,Office Chair,2,5372.83,0.0,10745.66,3275.02
+ORD1319,2023-10-17,Rohan Singh,Corporate,South,Chennai,Stationery,Notebook Pack,2,202.28,0.1,404.56,66.51
+ORD1041,2024-03-29,Pooja Chauhan,Home Office,West,Ahmedabad,Furniture,Filing Cabinet,5,3389.42,0.05,16947.1,4223.28
+ORD2132,2023-04-11,Kavya Gupta,Home Office,West,Mumbai,Stationery,Stapler,2,136.61,0.05,273.22,23.69
+ORD1013,2024-07-16,Pooja Iyer,Home Office,West,Mumbai,Clothing,Jeans,2,1255.73,0.0,2511.46,558.73
+ORD1570,2023-01-18,Neha Patel,Corporate,North,Chandigarh,Furniture,Office Chair,1,4824.8,0.0,4824.8,791.87
+ORD2106,2024-06-15,Priya Sharma,Home Office,East,Kolkata,ELECTRONICS,Bluetooth Speaker,1,1458.61,0.0,1458.61,390.42
+ORD1510,2023-04-11,Manish Singh,Home Office,East,Bhubaneswar,Stationery,Whiteboard,1,793.84,0.0,793.84,188.72
+ORD1511,2023-07-04,Rahul Chauhan,,South,Hyderabad,Stationery,Pen Set,2,151.62,0.0,303.24,25.13
+ORD1929,2024-07-31,Priya Joshi,Home Office,West,Pune,Stationery,Pen Set,2,142.09,0.0,284.18,67.28
+ORD1273,2024-12-15,Neha Kapoor,Home Office,West,Pune,Clothing,Jeans,3,1263.79,0.15,3791.37,47.83
+ORD2160,2024-08-11,Rohan Nair,Corporate,North,Lucknow,Electronics,Power Bank,2,990.68,0.1,1981.36,338.52
+ORD1271,2023-11-26,Kavya Sharma,Corporate,East,Bhubaneswar,Furniture,Study Table,3,5967.35,0.0,17902.05,1558.14
+ORD1641,2023-10-25,Riya Iyer,Home Office, West ,Pune,Stationery,Stapler,2,132.54,0.0,265.08,56.0
+ORD1838,2023-12-24,Vikram Nair,Corporate,East,Patna,Furniture,Desk Lamp,2,961.68,0.1,1923.36,507.82
+ORD1352,2024-12-03,Priya Verma,Consumer,South,Hyderabad,Stationery,Sticky Notes,4,102.37,0.0,409.48,112.02
+ORD2086,2023-11-19,Pooja Sharma,Corporate,West,Pune,Electronics,Laptop Stand,2,1290.41,0.0,2580.82,598.98
+ORD1864,2023-06-01,Pooja Nair,Home Office,South,Chennai,Stationery,Whiteboard,4,760.52,0.0,3042.08,503.25
+ORD1688,2024-04-22,Priya Rao,Consumer,North,Chandigarh,Furniture,Study Table,2,5912.76,0.0,11825.52,2597.59
+ORD1549,2024-07-08,Pooja Reddy,Home Office,South,Hyderabad,Clothing,T-Shirt,5,493.07,0.15,2465.35,327.78
+ORD1448,2023-12-30,Arjun Singh,Consumer,East,Bhubaneswar,FURNITURE,Desk Lamp,3,856.2,0.0,2568.6,883.92
+ORD1771,2023-03-02,Rohan Chauhan,,West,Ahmedabad,Stationery,Sticky Notes,5,97.8,0.2,489.0,34.21
+ORD1152,2023-02-12,Priya Joshi,Home Office,South,Bangalore,Stationery,Stapler,4,128.21,0.1,512.84,19.31
+ORD1229,2024-12-28,Rahul Singh,Consumer,South,Chennai,Clothing,Cap,-3,299.95,0.0,899.85,92.07
+ORD1621,2023-09-28,Anjali Gupta,Home Office,West,Pune,Clothing,Jacket,3,2573.17,0.05,7719.51,1332.85
+ORD1018,2023-07-07,Amit Reddy,Home Office,East,Kolkata,Electronics,Bluetooth Speaker,1,1528.56,0.0,1528.56,225.38
+ORD1962,2023-12-28,Neha Verma,Consumer,South,Bangalore,Clothing,Jacket,3,2690.89,0.1,8072.67,1551.21
+ORD2032,2024-06-20,Vikram Patel,Home Office,North,Delhi,Furniture,Bookshelf,5,3727.34,0.0,18636.7,6384.1
+ORD2036,2023-10-17,Neha Reddy,Home Office,West,Mumbai,Electronics,Bluetooth Speaker,2,1501.98,0.05,3003.96,598.42
+ORD2164,2023-02-15,Anjali Iyer,Home Office,West,Ahmedabad,Furniture,Desk Lamp,2,913.51,0.15,1827.02,57.8
+ORD1116,2024-11-02,Riya Reddy,Home Office,South,Bangalore,Electronics,Laptop Stand,2,1267.36,0.0,2534.72,731.7
+ORD1190,2024-03-02,Anjali Singh,Home Office,north,Chandigarh,Clothing,Cap,1,314.59,0.0,314.59,50.64
+ORD1703,2023-04-14,Siddharth Joshi,Consumer,East,Patna,Electronics,Bluetooth Speaker,3,1428.24,0.0,4284.72,1126.5
+ORD1624,2023-10-07,Rahul Das,Home Office,North,Delhi,Clothing,Jeans,5,1375.05,0.15,6875.25,1121.58
+ORD1141,2023-12-28,Priya Verma,Home Office,West,Mumbai,Stationery,Whiteboard,5,805.49,0.2,4027.45,218.01
+ORD1254,2023-06-20,Sneha Kapoor,Home Office,North,Chandigarh,Furniture,Bookshelf,4,3349.27,0.0,13397.08,1994.58
+ORD1923,2023-03-04,Priya Rao,Consumer,North,Chandigarh,Furniture,Bookshelf,2,3581.25,0.0,7162.5,1703.58
+ORD1380,2023-07-28,Riya Patel,Corporate,West,Ahmedabad,Electronics,Laptop Stand,1,1401.54,0.0,1401.54,408.72
+ORD2065,2023-03-14,Sneha Rao,Home Office,North,Lucknow,Stationery,Stapler,4,139.25,0.1,557.0,160.72
+ORD1970,2023-12-16,Vikram Kapoor,,West,Ahmedabad,Furniture,Desk Lamp,4,924.82,0.0,3699.28,703.96
+ORD2020,2024-05-28,Anjali Reddy,Consumer,West,Pune,Stationery,Notebook Pack,3,190.73,0.0,572.19,86.97
+ORD1890,2023-01-22,Rahul Reddy,Corporate,North,Chandigarh,Electronics,Laptop Stand,1,1333.88,0.0,1333.88,338.53
+ORD1221,2023-12-23,Manish Gupta,Consumer,South,Chennai,Electronics,USB Cable,3,209.34,0.0,628.02,172.67
+ORD1665,2023-10-29,Pooja Sharma,Corporate,North,Lucknow,Electronics,Laptop Stand,2,1285.54,0.0,2571.08,304.87
+ORD1109,2024-05-12,Rohan Singh,Home Office,South,Hyderabad,Electronics,Wireless Mouse,2,590.24,0.05,1180.48,196.94
+ORD1666,2023-12-24,Divya Kapoor,Corporate,East,Kolkata,Electronics,Power Bank,1,1012.53,0.15,1012.53,119.22
+ORD1307,2024-06-03,Anjali Nair,Consumer,South,Hyderabad,Furniture,Study Table,2,6406.02,0.0,12812.04,1612.99
+ORD1987,2023-09-11,Manish Gupta,Home Office,East,Kolkata,Electronics,Laptop Stand,2,1304.91,0.05,2609.82,225.15
+ORD1100,2023-02-01,Siddharth Mehta,Home Office,South,Hyderabad,Electronics,Power Bank,2,1016.77,0.0,2033.54,425.67
+ORD1558,2024-06-08,Priya Joshi,Corporate,South,Bangalore,Electronics,USB Cable,5,206.57,0.0,1032.85,219.4
+ORD1232,2023-03-31,Kavya Iyer,Home Office,South,Chennai,Clothing,T-Shirt,1,503.22,0.0,503.22,175.31
+ORD1514,2023-10-11,Karan Nair,Consumer,South,Chennai,Electronics,Power Bank,3,1070.63,0.05,3211.89,755.59
+ORD1916,2023-10-18,Vikram Verma,Home Office,East,Kolkata,Furniture,Office Chair,3,4781.48,0.05,14344.44,3766.84
+ORD1217,2024-03-04,Neha Rao,Home Office,West,Ahmedabad,Furniture,Filing Cabinet,4,3530.11,0.05,14120.44,3791.26
+ORD2190,2023-12-14,Vikram Kapoor,Corporate,South,Chennai,Clothing,Cap,2,320.84,0.15,641.68,15.14
+ORD1290,2024-06-13,Vikram Verma,Corporate,West,Pune,Electronics,Power Bank,2,953.56,0.1,1907.12,406.09
+ORD1390,2023-11-20,Rahul Rao,Corporate,East,Kolkata,Electronics,Bluetooth Speaker,2,1555.96,0.2,3111.92,371.74
+ORD2161,2024-03-21,Riya Verma,Corporate,South,Chennai,Stationery,Whiteboard,2,857.13,0.0,1714.26,364.15
+ORD1675,2024-05-10,Rahul Nair,Home Office,West,Mumbai,Electronics,Laptop Stand,2,1312.54,0.0,2625.08,659.04
+ORD1532,2023-06-02,Riya Reddy,Consumer,South,Chennai,Stationery,Pen Set,1,146.9,0.05,146.9,46.5
+ORD1284,2023-06-10,Rohan Mehta,Home Office,West,Ahmedabad,Electronics,Power Bank,4,970.48,0.0,3881.92,657.58
+ORD1636,2024-07-01,Rahul Patel,Home Office,North,Lucknow,Clothing,Jacket,1,2657.21,0.0,2657.21,495.92
+ORD1592,2024-08-09,Rohan Gupta,Corporate,West,Ahmedabad,Electronics,Laptop Stand,1,1297.84,0.0,1297.84,274.96
+ORD1024,2023-08-07,Neha Verma,Consumer,North,Delhi,Furniture,Filing Cabinet,1,3561.25,0.05,3561.25,323.23
+ORD1642,2024-10-25,Neha Reddy,Home Office,North,Lucknow,Electronics,Webcam,2,1882.02,0.15,3764.04,137.67
+ORD1427,2024-12-19,Amit Sharma,Consumer,North,Delhi,Furniture,Study Table,4,6212.14,0.0,24848.56,4445.79
+ORD1748,2023-05-08,Rohan Singh,Corporate, West ,Pune,Electronics,Webcam,4,1821.64,0.0,7286.56,1695.69
+ORD1205,2024-08-03,Karan Mehta,Home Office,South,Hyderabad,Stationery,Notebook Pack,2,196.79,0.1,393.58,53.16
+ORD1187,2023-02-19,Manish Iyer,Home Office,North,Delhi,Furniture,Study Table,3,6165.24,0.0,18495.72,1700.57
+ORD1409,2024-01-10,Rahul Sharma,Home Office,East,Bhubaneswar,Furniture,Desk Lamp,2,948.1,0.0,1896.2,231.42
+ORD1362,2023-11-09,Amit Chauhan,Corporate,South,Hyderabad,Stationery,Sticky Notes,2,100.01,0.05,200.02,20.49
+ORD1285,2024-07-16,Neha Sharma,Corporate,East,Patna,Electronics,Bluetooth Speaker,1,1442.74,0.1,1442.74,103.11
+ORD1124,2023-08-20,Divya Chauhan,Consumer,East,Kolkata,Clothing,Jacket,2,2681.92,0.2,5363.84,117.12
+ORD2099,2023-12-30,Rohan Nair,Consumer,East,,Furniture,Desk Lamp,4,944.03,0.0,3776.12,1090.2
+ORD1797,2024-06-20,Neha Chauhan,Consumer,North,Lucknow,Furniture,Desk Lamp,4,932.88,0.15,3731.52,194.78
+ORD2046,2024-10-10,Manish Rao,Home Office,West,Mumbai,Electronics,Webcam,4,1827.4,0.0,7309.6,1126.91
+ORD1309,2024-04-26,Amit Reddy,Consumer,West,Pune,Electronics,Webcam,4,1876.64,0.0,7506.56,1886.3
+ORD1579,2024-05-02,Rahul Joshi,Corporate,South,Hyderabad,Furniture,Study Table,1,5846.28,0.15,5846.28,609.24
+ORD1996,2023-01-24,Sneha Nair,Home Office,West,Mumbai,Stationery,Whiteboard,2,840.56,0.0,1681.12,342.79
+ORD1672,2024-07-08,Arjun Singh,Consumer,North,Lucknow,Electronics,Laptop Stand,5,1249.42,0.0,6247.1,742.71
+ORD1148,2024-05-05,Amit Patel,Corporate,South,Hyderabad,Clothing,T-Shirt,5,494.11,0.05,2470.55,648.95
+ORD1921,2023-11-06,Divya Sharma,Corporate,North,Lucknow,Electronics,USB Cable,1,191.34,0.05,191.34,29.8
+ORD1484,2023-11-15,Priya Patel,Consumer,East,Kolkata,Clothing,Jacket,3,2560.55,0.15,7681.65,1159.59
+ORD1968,2023-09-04,Pooja Gupta,Consumer,South,Chennai,Electronics,Laptop Stand,1,1360.4,0.0,1360.4,460.57
+ORD1071,2024-12-11,Priya Reddy,Consumer,West,Pune,Electronics,Wireless Mouse,2,635.84,0.0,1271.68,
+ORD1378,2024-02-23,Rahul Kapoor,Home Office,East,Bhubaneswar,Stationery,Notebook Pack,4,196.38,0.0,785.52,64.0
+ORD1518,2024-06-11,Riya Mehta,Corporate,West,Pune,Electronics,Laptop Stand,2,1386.81,0.1,2773.62,660.59
+ORD1172,2023-04-02,Priya Patel,Corporate,West,Pune,Stationery,Whiteboard,2,792.41,0.05,1584.82,186.53
+ORD1286,2023-07-31,Amit Reddy,Consumer,North,Chandigarh,Stationery,Stapler,1,130.61,0.0,130.61,20.74
+ORD1169,2023-03-22,Arjun Rao,Corporate,West,Pune,Stationery,Pen Set,1,147.18,0.0,147.18,29.35
+ORD1867,2024-04-11,Pooja Das,Corporate,East,Patna,Stationery,Notebook Pack,2,207.14,0.0,414.28,72.49
+ORD2013,2023-09-14,Pooja Joshi,Corporate,East,Patna,Electronics,USB Cable,2,203.55,0.05,407.1,83.71
+ORD1569,2023-04-15,Rohan Singh,Home Office,East,Bhubaneswar,Stationery,Sticky Notes,4,98.43,0.0,393.72,85.01
+ORD1126,2023-10-19,Riya Chauhan,Consumer,North,Chandigarh,Electronics,Power Bank,3,979.9,0.0,2939.7,425.01
+ORD1432,2024-10-10,Kavya Kapoor,Home Office,West,Pune,Clothing,Jacket,3,2648.52,0.1,7945.56,932.27
+ORD1408,2024-07-06,Pooja Das,Home Office, West ,Ahmedabad,Clothing,Cap,4,289.3,0.0,1157.2,279.29
+ORD1165,2024-03-04,Pooja Das,Home Office,South,Bangalore,Furniture,Office Chair,2,4873.04,0.0,9746.08,2596.7
+ORD1981,2023-04-30,Kavya Rao,Consumer,West,Pune,Electronics,Bluetooth Speaker,3,1617.57,0.2,4852.71,955.9
+ORD1627,2024-10-21,Amit Das,Home Office,West,Pune,Clothing,Jeans,2,1269.74,0.0,2539.48,241.24
+ORD1836,2023-09-09,Riya Das,Home Office,West,Ahmedabad,Clothing,Jacket,4,2418.95,0.0,9675.8,2209.19
+ORD1832,2023-07-02,Anjali Joshi,Corporate,East,Kolkata,Electronics,Wireless Mouse,2,638.79,0.0,1277.58,217.71
+ORD1043,2023-03-24,Vikram Rao,Consumer,North,Lucknow,Electronics,Laptop Stand,4,1290.76,0.0,5163.04,735.43
+ORD2188,2024-04-25,Kavya Verma,Home Office,North,Lucknow,Clothing,Cap,2,290.2,0.05,580.4,75.99
+ORD1906,2024-12-05,Anjali Patel,Corporate,North,Delhi,Furniture,Filing Cabinet,1,3338.52,0.0,3338.52,881.33
+ORD1772,2023-11-03,Karan Mehta,Home Office,South,Hyderabad,Stationery,Pen Set,3,158.15,0.2,474.45,60.7
+ORD1133,2024-06-11,Divya Mehta,Consumer,West,Mumbai,Electronics,USB Cable,1,204.49,0.05,204.49,50.92
+ORD1542,2024-04-10,Siddharth Patel,Corporate,East,Kolkata,Stationery,Stapler,1,135.08,0.0,135.08,15.86
+ORD1951,2023-11-23,Pooja Rao,Home Office,East,Patna,Electronics,Power Bank,6,980.77,0.05,5884.62,409.45
+ORD1039,2024-08-12,Riya Mehta,Consumer,North,Delhi,Clothing,T-Shirt,4,503.59,0.0,2014.36,539.88
+ORD1545,2024-12-27,Sneha Joshi,Corporate,North,Chandigarh,Electronics,Power Bank,1,1021.62,0.0,1021.62,174.12
+ORD1857,2023-03-16,Amit Gupta,Corporate,North,Delhi,Clothing,Jacket,2,2496.14,0.0,4992.28,1577.67
+ORD1573,2023-09-17,Rahul Singh,Consumer,North,Delhi,Stationery,Stapler,2,132.5,0.0,265.0,42.78
+ORD1889,2023-02-20,Arjun Mehta,Consumer,West,Ahmedabad,Stationery,Whiteboard,1,843.54,0.1,843.54,138.88
+ORD1913,2023-07-15,Karan Chauhan,Home Office,East,Bhubaneswar,Electronics,USB Cable,1,213.5,0.0,213.5,47.06
+ORD1903,2024-09-14,Priya Joshi,Consumer,West,Mumbai,Electronics,USB Cable,1,193.62,0.0,193.62,38.16
+ORD1493,2024-10-13,Manish Das,Corporate,North,Delhi,Electronics,Bluetooth Speaker,4,1596.95,0.1,6387.8,1331.46
+ORD1014,2024-06-13,Amit Gupta,Consumer,South,Hyderabad,Electronics,Power Bank,2,1033.45,0.0,2066.9,303.7
+ORD1167,2023-09-28,Kavya Nair,Home Office,East,Patna,Electronics,Power Bank,3,1037.46,0.05,3112.38,332.75
+ORD1715,2024-07-19,Manish Gupta,Consumer,South,Bangalore,Stationery,Pen Set,2,150.74,0.1,301.48,67.86
+ORD1253,2023-01-31,Amit Nair,Home Office,South,Hyderabad,Stationery,Whiteboard,1,835.18,0.0,835.18,163.63
+ORD1508,2024-06-29,Siddharth Reddy,Corporate,East,Kolkata,Electronics,USB Cable,1,199.37,0.0,199.37,52.74
+ORD1709,2024-01-22,Neha Nair,Home Office,South,Chennai,Clothing,Cap,2,292.55,0.05,585.1,179.97
+ORD2184,2024-08-04,Vikram Joshi,Corporate,West,Ahmedabad,Furniture,Study Table,1,5717.64,0.05,5717.64,736.41
+ORD1894,2023-01-06,Arjun Singh,Consumer,North,Delhi,Stationery,Whiteboard,2,843.82,0.15,1687.64,
+ORD1433,2024-02-11,Divya Kapoor,Consumer,South,Chennai,Stationery,Whiteboard,2,796.44,0.0,1592.88,142.34
+ORD1937,2024-11-15,Rahul Gupta,Corporate,South,Chennai,Stationery,Pen Set,1,143.22,0.0,143.22,42.78
+ORD1021,2024-08-21,Anjali Sharma,Home Office,East,Kolkata,Clothing,T-Shirt,1,522.57,0.0,522.57,171.53
+ORD1698,2023-07-20,Rohan Singh,Consumer,South,Bangalore,Electronics,Webcam,2,2016.04,0.2,4032.08,616.71
+ORD1072,2023-01-02,Pooja Sharma,Consumer,East,Bhubaneswar,Electronics,USB Cable,3,211.43,0.05,634.29,127.81
+ORD1669,2023-11-13,Amit Iyer,Home Office,North,Delhi,Stationery,Stapler,5,133.12,0.05,665.6,152.33
+ORD1410,2024-05-03,Divya Kapoor,Consumer,south,Chennai,Electronics,Webcam,4,1806.1,0.0,7224.4,2071.85
+ORD1061,2023-05-10,Sneha Chauhan,Consumer,South,Chennai,Electronics,Wireless Mouse,2,612.14,0.05,1224.28,316.18
+ORD1961,2023-07-08,Karan Sharma,Home Office,South,Bangalore,Clothing,T-Shirt,2,489.14,0.05,978.28,281.11
+ORD1005,2023-04-14,Neha Patel,Corporate,North,Delhi,Stationery,Whiteboard,4,861.38,0.0,3445.52,697.44
+ORD1591,2024-03-08,Arjun Sharma,Home Office,North,Chandigarh,Electronics,Webcam,2,1884.56,0.05,3769.12,1124.63
+ORD1595,2023-11-04,Pooja Mehta,Corporate,West,Pune,Electronics,Wireless Mouse,2,619.79,0.05,1239.58,173.05
+ORD1419,2023-01-16,Sneha Mehta,Consumer,North,Lucknow,Electronics,Wireless Mouse,2,587.42,0.0,1174.84,181.57
+ORD1651,2024-02-29,Vikram Singh,Home Office,South,Chennai,Electronics,Webcam,1,1846.33,0.0,1846.33,479.21
+ORD1713,2024-09-10,Arjun Sharma,Corporate,East,Bhubaneswar,Electronics,Power Bank,1,1058.85,0.2,1058.85,264.26
+ORD1541,2023-08-12,Amit Sharma,Corporate,South,Bangalore,Furniture,Office Chair,2,5199.51,0.0,10399.02,1662.42
+ORD1499,2024-01-29,Rahul Kapoor,,West,Ahmedabad,Electronics,Webcam,3,1908.75,0.0,5726.25,745.35
+ORD1796,2024-03-11,Kavya Rao,Home Office,North,Chandigarh,Electronics,Bluetooth Speaker,3,1601.55,0.1,4804.65,1116.65
+ORD2073,2023-03-08,Kavya Patel,Corporate,South,Hyderabad,Furniture,Study Table,1,6398.7,0.0,6398.7,1046.27
+ORD1095,2024-12-03,Neha Sharma,Corporate,East,Kolkata,Furniture,Desk Lamp,2,954.03,0.05,1908.06,608.7
+ORD1096,2024-10-16,Karan Iyer,Consumer,East,Kolkata,Clothing,Cap,3,287.61,0.2,862.83,-5.47
+ORD1527,2023-12-10,Pooja Patel,Home Office,South,Chennai,Stationery,Pen Set,2,156.35,0.0,312.7,36.94
+ORD2117,2024-05-14,Sneha Joshi,Corporate,East,Bhubaneswar,Clothing,Jeans,3,1277.16,0.1,3831.48,587.0
+ORD1705,2024-01-23,Pooja Joshi,Consumer,North,Delhi,Clothing,Jeans,1,1368.28,0.05,1368.28,192.72
+ORD1707,2023-06-21,Neha Reddy,Home Office,West,Mumbai,Stationery,Sticky Notes,2,104.23,0.05,208.46,53.75
+ORD1059,2024-07-02,Rohan Iyer,Home Office,East,Bhubaneswar,Electronics,Wireless Mouse,1,625.22,0.2,625.22,
+ORD1337,2023-10-29,Divya Chauhan,Home Office,West,Ahmedabad,Clothing,Jeans,6,1280.25,0.1,7681.5,517.03
+ORD1317,2024-10-31,Manish Mehta,Consumer,East,Patna,Stationery,Stapler,2,139.23,0.0,278.46,30.98
+ORD1758,2023-12-12,Karan Gupta,Consumer,North,Chandigarh,Stationery,Whiteboard,4,855.87,0.0,3423.48,616.61
+ORD1025,2024-10-31,Divya Joshi,Consumer,East,Bhubaneswar,Electronics,Webcam,4,1977.73,0.0,7910.92,2378.17
+ORD1656,2023-11-05,Vikram Das,Home Office,West,Ahmedabad,Electronics,Power Bank,1,1001.58,0.0,1001.58,170.58
+ORD1245,2024-09-06,Rahul Chauhan,Home Office,East,Kolkata,Electronics,Power Bank,2,959.99,0.1,1919.98,205.3
+ORD1026,2023-10-16,Arjun Das,Corporate,South,Chennai,Electronics,Wireless Mouse,3,626.86,0.0,1880.58,324.55
+ORD1223,2023-07-08,Siddharth Sharma,Home Office,South,Chennai,Furniture,Study Table,2,5879.87,0.0,11759.74,3027.82
+ORD1598,2023-10-01,Kavya Mehta,Consumer,East,Bhubaneswar,Furniture,Office Chair,4,5161.02,0.05,20644.08,2564.83
+ORD1106,2024-07-28,Rahul Kapoor,Home Office,East,Patna,Electronics,Laptop Stand,3,1331.0,0.2,3993.0,802.49
+ORD2082,2024-06-05,Amit Singh,Corporate,East,Patna,Furniture,Desk Lamp,1,911.03,0.0,911.03,113.01
+ORD1131,2024-12-23,Amit Sharma,Corporate,South,Bangalore,Electronics,USB Cable,2,207.06,0.0,414.12,33.72
+ORD1154,2024-04-20,Karan Chauhan,Home Office,West,Pune,Furniture,Office Chair,2,4851.78,0.0,9703.56,2365.71
+ORD1854,2024-04-16,Arjun Singh,Corporate,North,Chandigarh,Furniture,Bookshelf,1,3364.64,0.0,3364.64,699.11
+ORD1960,2023-09-22,Riya Patel,Consumer,North,Chandigarh,Clothing,Jacket,2,2683.75,0.1,5367.5,561.22
+ORD1240,2024-10-26,Kavya Mehta,Home Office,South,Chennai,Electronics,Laptop Stand,1,1276.33,0.0,1276.33,317.7
+ORD1839,2023-02-27,Vikram Mehta,Home Office,South,Hyderabad,Clothing,Cap,3,293.48,0.1,880.44,
+ORD1076,2023-10-01,Riya Chauhan,Consumer,South,Bangalore,Electronics,USB Cable,3,197.84,0.0,593.52,95.33
+ORD1930,2024-04-14,Neha Das,Home Office,West,Mumbai,Clothing,Jacket,2,2686.83,0.0,5373.66,1854.31
+ORD2066,2023-02-10,Manish Mehta,Consumer,North,Chandigarh,Furniture,Office Chair,1,4939.44,0.0,4939.44,1350.88
+ORD1340,2023-02-24,Anjali Nair,Home Office,East,Bhubaneswar,Stationery,Stapler,1,124.34,0.05,124.34,13.55
+ORD2145,2024-06-03,Sneha Singh,Home Office,South,Hyderabad,Furniture,Office Chair,3,5386.58,0.1,16159.74,2820.64
+ORD1972,2024-02-02,Siddharth Rao,Home Office,West,Mumbai,Stationery,Notebook Pack,4,192.47,0.15,769.88,77.51
+ORD1739,2023-07-26,Priya Iyer,Home Office,West,Mumbai,Stationery,Notebook Pack,2,192.61,0.0,385.22,52.08
+ORD1200,2023-10-09,Pooja Singh,,North,Delhi,FURNITURE,Study Table,4,5708.29,0.2,22833.16,-350.98
+ORD2090,2024-08-23,Karan Nair,Home Office,West,Ahmedabad,Clothing,Cap,5,293.76,0.0,1468.8,157.73
+ORD1135,2023-03-11,Sneha Singh,Home Office,North,Lucknow,Electronics,Laptop Stand,1,1276.88,0.0,1276.88,354.84
+ORD1398,2024-07-22,Vikram Singh,Home Office,South,Hyderabad,Stationery,Notebook Pack,3,207.7,0.0,623.1,113.93
+ORD1260,2023-05-26,Kavya Chauhan,Home Office,East,Kolkata,Electronics,Bluetooth Speaker,5,1505.86,0.1,7529.3,414.99
+ORD2104,2024-01-25,Sneha Gupta,Corporate,East,Bhubaneswar,Electronics,Wireless Mouse,1,642.63,0.1,642.63,88.74
+ORD1004,2024-07-19,Neha Kapoor,Consumer,North,Lucknow,Furniture,Office Chair,1,5381.45,0.0,5381.45,1343.92
+ORD1935,2023-03-16,Rahul Patel,Corporate,West,Pune,Clothing,T-Shirt,1,513.74,0.0,513.74,93.02
+ORD1211,2023-10-02,Arjun Mehta,Corporate,South,Hyderabad,Furniture,Study Table,2,5831.24,0.0,11662.48,1459.51
+ORD1197,2024-11-01,Riya Reddy,Consumer,South,Chennai,Electronics,Webcam,3,2009.78,0.0,6029.34,1819.83
+ORD1588,2024-09-23,Divya Gupta,Consumer,South,Hyderabad,Electronics,Laptop Stand,5,1317.59,0.05,6587.95,1725.69
+ORD1464,2023-05-15,Arjun Sharma,Corporate,East,Patna,Stationery,Sticky Notes,1,97.77,0.2,97.77,-1.86
+ORD1586,2024-07-24,Anjali Reddy,Corporate,West,Pune,Clothing,Cap,1,301.92,0.05,301.92,80.14
+ORD1027,2023-12-08,Manish Das,Home Office,East,Kolkata,Electronics,USB Cable,1,210.51,0.05,210.51,26.47
+ORD1680,2023-10-07,Rohan Reddy,Home Office,East,Patna,Clothing,Jacket,3,2692.31,0.05,8076.93,1145.65
+ORD2113,2024-04-18,Arjun Singh,Consumer,South,Bangalore,Electronics,Power Bank,1,1034.68,0.05,1034.68,202.15
+ORD2126,2023-11-15,Riya Iyer,Home Office,South,Hyderabad,Electronics,Laptop Stand,3,1235.87,0.0,3707.61,925.82
+ORD1327,2024-05-08,Siddharth Patel,Home Office,South,Hyderabad,Clothing,T-Shirt,3,502.13,0.0,1506.39,395.58
+ORD1062,2024-05-04,Riya Verma,Home Office,East,Bhubaneswar,Furniture,Bookshelf,1,3407.91,0.0,3407.91,332.76
+ORD1657,2024-10-12,Arjun Iyer,Corporate,east,Kolkata,Electronics,Webcam,1,1881.14,0.0,1881.14,602.69
+ORD2027,2023-02-02,Anjali Reddy,Consumer,East,Kolkata,Furniture,Desk Lamp,2,884.23,0.15,1768.46,255.72
+ORD2154,2024-11-30,Rahul Sharma,Corporate,North,Lucknow,Electronics,Webcam,3,1819.08,0.0,5457.24,439.13
+ORD1733,2024-11-16,Anjali Rao,Consumer,North,Chandigarh,Electronics,Wireless Mouse,1,595.3,0.0,595.3,189.43
+ORD1632,2023-06-02,Divya Chauhan,Consumer,North,Chandigarh,FURNITURE,Office Chair,2,5338.62,0.2,10677.24,1759.23
+ORD2179,2023-09-21,Rahul Mehta,Corporate,South,Bangalore,Electronics,Power Bank,5,971.69,0.15,4858.45,
+ORD1368,2023-10-08,Siddharth Joshi,Corporate,North,Lucknow,Electronics,Power Bank,3,1074.82,0.05,3224.46,673.73
+ORD1926,2023-07-08,Arjun Chauhan,Home Office,West,,Electronics,Wireless Mouse,2,592.41,0.1,1184.82,304.81
+ORD1749,2024-12-14,Kavya Iyer,Corporate,East,Patna,Electronics,Power Bank,2,1012.51,0.05,2025.02,617.96
+ORD2029,2024-01-02,Anjali Singh,Consumer,South,Chennai,Furniture,Bookshelf,1,3618.75,0.0,3618.75,745.63
+ORD2077,2023-03-07,Divya Sharma,Consumer,East,Patna,Electronics,Power Bank,3,973.73,0.15,2921.19,119.15
+ORD1009,2024-11-27,Manish Das,Corporate,West,Mumbai,Stationery,Notebook Pack,2,193.0,0.05,386.0,61.33
+ORD1431,2023-07-04,Anjali Das,Home Office,East,Patna,Furniture,Study Table,1,6387.54,0.05,6387.54,1221.73
+ORD1603,2024-02-04,Pooja Iyer,Consumer,South,Hyderabad,Electronics,Laptop Stand,2,1289.66,0.1,2579.32,595.48
+ORD2039,2024-06-13,Amit Gupta,,West,Mumbai,Electronics,USB Cable,1,193.69,0.1,193.69,30.12
+ORD1490,2023-12-15,Pooja Kapoor,Corporate,South,Hyderabad,Electronics,Bluetooth Speaker,1,1613.83,0.1,1613.83,305.92
+ORD1652,2024-04-14,Neha Sharma,Corporate,West,Mumbai,Electronics,USB Cable,2,199.74,0.2,399.48,47.68
+ORD1811,2023-07-06,Karan Iyer,Corporate,East,Bhubaneswar,Clothing,Cap,4,293.65,0.0,1174.6,110.5
+ORD1841,2024-03-02,Vikram Rao,Home Office,East,Kolkata,Electronics,Wireless Mouse,3,570.02,0.0,1710.06,221.03
+ORD1075,2024-05-09,Vikram Mehta,Consumer,South,Chennai,Clothing,Jacket,1,2539.37,0.2,2539.37,116.32
+ORD1559,2023-10-19,Amit Iyer,Home Office,West,Mumbai,Stationery,Sticky Notes,2,98.81,0.0,197.62,67.97
+ORD1858,2023-04-21,Pooja Iyer,Corporate,West,Ahmedabad,Furniture,Study Table,1,5784.15,0.15,5784.15,1469.59
+ORD1058,2024-03-11,Neha Rao,Corporate,South,Chennai,Stationery,Whiteboard,2,808.21,0.2,1616.42,207.88
+ORD2021,2023-01-04,Sneha Gupta,Corporate,East,Patna,Electronics,Webcam,2,1905.08,0.0,3810.16,881.48
+ORD1977,2023-12-22,Riya Reddy,Consumer,South,Chennai,Furniture,Filing Cabinet,2,3511.28,0.0,7022.56,1107.58
+ORD1298,2023-07-17,Priya Iyer,Consumer,West,Mumbai,Stationery,Stapler,1,137.3,0.15,137.3,8.13
+ORD1373,2024-09-13,Anjali Iyer,Corporate,North,Lucknow,Stationery,Whiteboard,1,857.44,0.2,857.44,183.64
+ORD1218,2024-07-30,Siddharth Singh,Corporate,North,Delhi,Stationery,Whiteboard,2,776.33,0.2,1552.66,252.96
+ORD1706,2023-09-11,Vikram Chauhan,Home Office,North,Lucknow,Furniture,Filing Cabinet,1,3260.22,0.0,3260.22,961.16
+ORD1663,2024-12-22,Rohan Reddy,Corporate,West,Mumbai,Electronics,Bluetooth Speaker,4,1518.52,0.15,6074.08,223.99
+ORD1345,2023-01-06,Vikram Sharma,Consumer,West,Pune,Furniture,Desk Lamp,3,872.86,0.0,2618.58,
+ORD2169,2023-06-12,Anjali Das,Corporate,West,Mumbai,STATIONERY,Pen Set,1,142.92,0.15,142.92,19.57
+ORD1741,2024-11-11,Kavya Kapoor,,South,Hyderabad,Electronics,Bluetooth Speaker,1,1464.16,0.1,1464.16,319.18
+ORD1678,2024-11-27,Rohan Kapoor,Home Office,North,Delhi,Clothing,Cap,2,294.67,0.2,589.34,
+ORD2016,2023-02-14,Arjun Joshi,Consumer,North,Lucknow,Electronics,Power Bank,2,984.76,0.2,1969.52,335.12
+ORD1871,2023-08-18,Arjun Nair,Corporate,West,Pune,Clothing,Cap,1,284.35,0.05,284.35,36.18
+ORD1714,2024-11-02,Vikram Chauhan,Corporate,East,Bhubaneswar,Stationery,Sticky Notes,3,106.22,0.0,318.66,69.6
+ORD1844,2023-05-09,Priya Iyer,Corporate,West,Mumbai,Electronics,Wireless Mouse,5,609.66,0.1,3048.3,421.0
+ORD1650,2023-05-22,Pooja Singh,Consumer,West,Ahmedabad,Clothing,Jeans,1,1343.32,0.0,1343.32,180.69
+ORD1267,2024-10-23,Karan Verma,Consumer,North,Lucknow,Furniture,Office Chair,2,4763.22,0.1,9526.44,522.38
+ORD1007,2024-08-03,Riya Mehta,Home Office,North,Delhi,Stationery,Whiteboard,1,800.72,0.15,800.72,72.04
+ORD1904,2024-06-28,Siddharth Mehta,Corporate,North,Delhi,Electronics,Wireless Mouse,1,613.84,0.0,613.84,86.64
+ORD1512,2023-10-18,Amit Sharma,Home Office,North,Chandigarh,Electronics,Wireless Mouse,2,622.43,0.0,1244.86,107.55
+ORD1634,2024-11-08,Siddharth Sharma,Consumer,East,Bhubaneswar,Electronics,Wireless Mouse,2,628.9,0.0,1257.8,162.5
+ORD1139,2024-12-09,Arjun Singh,Consumer,West,Pune,Stationery,Sticky Notes,2,98.41,0.0,196.82,58.11
+ORD1164,2024-08-20,Siddharth Patel,Home Office,East,Patna,Stationery,Stapler,3,132.24,0.0,396.72,87.89
+ORD2119,2023-03-26,Anjali Mehta,Home Office,East,Kolkata,Clothing,Jacket,2,2521.07,0.2,5042.14,1221.98
+ORD1948,2023-01-16,Priya Verma,Consumer,North,Delhi,Furniture,Filing Cabinet,5,3377.67,0.15,16888.35,1224.05
+ORD2068,2024-12-27,Karan Nair,Home Office,South,Chennai,Electronics,Power Bank,3,1039.14,0.1,3117.42,730.68
+ORD1044,2024-03-06,Rahul Chauhan,Home Office,North,Chandigarh,Furniture,Filing Cabinet,1,3333.87,0.0,3333.87,959.64
+ORD1759,2023-12-05,Siddharth Rao,Consumer, East ,Patna,Electronics,Webcam,1,1818.18,0.0,1818.18,572.81
+ORD2197,2023-12-16,Manish Joshi,Corporate,South,Bangalore,Clothing,T-Shirt,5,520.96,0.0,2604.8,618.23
+ORD1320,2023-08-01,Kavya Sharma,Consumer,South,Chennai,Stationery,Whiteboard,2,775.71,0.05,1551.42,286.67
+ORD1792,2024-08-04,Neha Rao,Consumer,East,Kolkata,Stationery,Pen Set,1,154.29,0.1,154.29,6.83
+ORD1969,2024-04-04,Vikram Das,Consumer,East,Patna,Furniture,Bookshelf,2,3621.23,0.1,7242.46,666.57
+ORD1526,2024-03-12,Siddharth Gupta,Consumer,North,Chandigarh,Furniture,Filing Cabinet,3,3228.65,0.0,9685.95,2960.92
+ORD1295,2024-01-17,Divya Nair,Corporate,East,Patna,Electronics,Power Bank,1,1010.77,0.0,1010.77,303.93
+ORD1572,2023-03-21,Pooja Sharma,Consumer,South,Bangalore,Clothing,Cap,3,310.9,0.0,932.7,196.57
+ORD1644,2024-11-20,Anjali Kapoor,Consumer,West,,Clothing,Cap,4,321.36,0.1,1285.44,316.13
+ORD1689,2023-12-09,Kavya Rao,Corporate,North,Chandigarh,Clothing,Cap,1,296.34,0.15,296.34,66.11
+ORD1927,2023-05-26,Anjali Das,Home Office,West,Ahmedabad,Stationery,Sticky Notes,1,95.93,0.1,95.93,19.91
+ORD1020,2024-04-10,Riya Patel,Consumer,North,Delhi,Electronics,USB Cable,3,195.91,0.0,587.73,157.56
+ORD1802,2023-07-06,Manish Joshi,Corporate,East,Kolkata,Furniture,Bookshelf,2,3460.19,0.05,6920.38,884.15
+ORD1840,2024-08-18,Anjali Sharma,Consumer,North,Lucknow,Clothing,Jacket,1,2391.62,0.0,2391.62,732.09
+ORD1529,2024-10-29,Riya Rao,,North,Chandigarh,Electronics,Wireless Mouse,3,583.02,0.15,1749.06,205.3
+ORD1869,2024-02-26,Sneha Joshi,Corporate,North,Delhi,Stationery,Notebook Pack,1,191.37,0.0,191.37,54.06
+ORD2051,2024-04-18,Karan Verma,Consumer,West,Mumbai,Electronics,USB Cable,1,206.05,0.05,206.05,65.63
+ORD1702,2023-07-22,Arjun Rao,Consumer,West,Mumbai,Stationery,Whiteboard,1,763.61,0.0,763.61,106.23
+ORD2136,2023-12-23,Karan Gupta,Home Office,South,Hyderabad,Stationery,Stapler,3,133.42,0.1,400.26,104.59
+ORD1138,2023-02-18,Sneha Singh,Corporate,West,Pune,Electronics,Power Bank,1,973.87,0.15,973.87,92.15
+ORD2151,2023-07-05,Sneha Gupta,Consumer,South,Hyderabad,Electronics,Webcam,5,1995.06,0.0,9975.3,3299.66
+ORD1523,2024-02-20,Manish Joshi,Home Office,West,Mumbai,Electronics,Wireless Mouse,3,595.35,0.0,1786.05,532.1
+ORD1186,2023-04-26,Rahul Iyer,Consumer,South,Chennai,Electronics,Laptop Stand,4,1265.88,0.0,5063.52,1307.67
+ORD1958,2024-11-06,Rahul Verma,Corporate,East,Bhubaneswar,Furniture,Office Chair,2,5149.08,0.1,10298.16,2561.87
+ORD1862,2024-03-14,Anjali Iyer,Corporate,South,Hyderabad,Clothing,Jeans,1,1374.3,0.0,1374.3,389.42
+ORD2153,2024-02-16,Amit Gupta,Corporate,South,Hyderabad,Furniture,Bookshelf,1,3551.34,0.0,3551.34,620.86
+ORD1859,2024-05-02,Vikram Reddy,Consumer,East,Kolkata,Electronics,Webcam,3,1924.1,0.0,5772.3,1170.25
+ORD2143,2023-07-10,Siddharth Rao,Corporate,West,Pune,Furniture,Filing Cabinet,1,3562.22,0.1,3562.22,665.57
+ORD2045,2024-10-13,Priya Das,Home Office,east,Kolkata,Electronics,USB Cable,1,189.5,0.05,189.5,28.7
+ORD1328,2024-05-22,Riya Gupta,Consumer,North,Delhi,Stationery,Pen Set,2,151.34,0.15,302.68,7.63
+ORD1318,2023-11-05,Arjun Kapoor,Home Office,East,Bhubaneswar,Stationery,Pen Set,3,155.02,0.05,465.06,108.76
+ORD1829,2024-10-04,Sneha Das,Corporate,East,,Furniture,Desk Lamp,4,860.58,0.0,3442.32,1042.09
+ORD1813,2024-09-11,Rohan Kapoor,Corporate,South,Chennai,Electronics,Laptop Stand,2,1359.51,0.0,2719.02,694.89
+ORD1531,2023-08-30,Sneha Kapoor,Corporate,North,Lucknow,Stationery,Whiteboard,1,795.18,0.0,795.18,275.44
+ORD1725,2024-09-24,Anjali Rao,Home Office,East,Bhubaneswar,Stationery,Pen Set,1,149.59,0.1,149.59,22.98
+ORD1791,2024-07-18,Riya Kapoor,Consumer,East,Bhubaneswar,Electronics,Power Bank,3,1037.08,0.05,3111.24,884.84
+ORD1463,2023-06-03,Priya Mehta,Corporate,West,Mumbai,Stationery,Whiteboard,2,817.79,0.0,1635.58,194.71
+ORD1474,2023-01-30,Karan Joshi,Corporate,North,Lucknow,Electronics,USB Cable,2,207.79,0.1,415.58,34.24
+ORD2091,2023-03-17,Pooja Chauhan,Consumer,East,Bhubaneswar,Clothing,T-Shirt,4,504.66,0.0,2018.64,584.02
+ORD1149,2024-07-18,Vikram Mehta,Home Office,North,Chandigarh,Furniture,Filing Cabinet,4,3281.8,0.05,13127.2,1366.94
+ORD1479,2024-03-30,Vikram Iyer,Corporate,South,Bangalore,Electronics,Wireless Mouse,4,629.62,0.05,2518.48,681.85
+ORD1953,2023-10-04,Amit Sharma,Corporate,West,Ahmedabad,Stationery,Notebook Pack,4,189.6,0.05,758.4,103.23
+ORD1535,2024-02-27,Kavya Verma,Corporate, East ,Kolkata,Stationery,Whiteboard,1,782.71,0.15,782.71,83.28
+ORD1757,2023-01-08,Priya Verma,Consumer,South,Chennai,Furniture,Office Chair,1,4755.23,0.05,4755.23,1274.81
+ORD1976,2024-03-12,Anjali Patel,Consumer,East,Kolkata,Furniture,Filing Cabinet,3,3382.72,0.0,10148.16,1864.2
+ORD1366,2023-05-30,Neha Sharma,Consumer,South,Chennai,Electronics,Webcam,2,2038.26,0.1,4076.52,654.47
+ORD2053,2023-06-05,Rohan Das,Home Office,West,,Electronics,Laptop Stand,3,1288.03,0.0,3864.09,1083.85
+ORD1452,2023-11-22,Pooja Mehta,Corporate,South,Chennai,Electronics,Webcam,1,2038.23,0.1,2038.23,482.38
+ORD2047,2024-01-17,Sneha Mehta,Home Office,South,Hyderabad,Stationery,Stapler,1,130.24,0.0,130.24,31.85
+ORD1807,2024-06-07,Sneha Chauhan,Corporate,East,Bhubaneswar,Electronics,USB Cable,1,195.46,0.0,195.46,30.47
+ORD1940,2023-01-24,Arjun Mehta,Home Office,East,Kolkata,Electronics,Bluetooth Speaker,2,1434.08,0.0,2868.16,957.87
+ORD1505,2023-04-25,Vikram Joshi,Corporate,East,Kolkata,Stationery,Whiteboard,1,848.16,0.05,848.16,255.07
+ORD1233,2023-07-31,Neha Das,Corporate,East,Patna,Stationery,Sticky Notes,1,96.19,0.1,96.19,23.8
+ORD1782,2023-02-05,Divya Gupta,Home Office,South,,Electronics,Bluetooth Speaker,1,1441.16,0.0,1441.16,163.82
+ORD1599,2024-05-12,Priya Iyer,Consumer,North,Delhi,Electronics,Bluetooth Speaker,1,1579.37,0.05,1579.37,
+ORD2176,2024-12-01,Priya Chauhan,Corporate,South,Hyderabad,Clothing,Jacket,4,2386.53,0.0,9546.12,772.51
+ORD1816,2024-03-05,Rahul Patel,Home Office,East,Bhubaneswar,Furniture,Office Chair,1,5340.98,0.05,5340.98,1667.24
+ORD1159,2024-08-06,Divya Verma,Corporate,East,Patna,Electronics,USB Cable,2,198.52,0.05,397.04,60.7
+ORD1316,2023-06-23,Priya Mehta,Home Office,South,Hyderabad,Clothing,Jeans,2,1358.01,0.0,2716.02,738.76
+ORD1257,2023-11-15,Neha Iyer,Corporate,North,Chandigarh,ELECTRONICS,USB Cable,4,211.45,0.0,845.8,171.97
+ORD1756,2023-10-28,Karan Sharma,Home Office,West,Ahmedabad,Clothing,T-Shirt,1,530.38,0.0,530.38,82.06
+ORD1097,2023-08-27,Rahul Nair,Consumer,South,Bangalore,Stationery,Stapler,1,126.02,0.0,126.02,15.1
+ORD2178,2023-12-20,Manish Das,Corporate,West,Pune,Clothing,Jeans,3,1349.37,0.0,4048.11,1305.98
+ORD1975,2024-08-25,Kavya Nair,Corporate,East,Patna,Stationery,Sticky Notes,1,98.17,0.0,98.17,
+ORD1385,2024-09-21,Kavya Joshi,Consumer,East,Kolkata,Electronics,Webcam,2,1930.09,0.0,3860.18,346.4
+ORD1907,2023-09-28,Rahul Kapoor,Corporate,West,Mumbai,Clothing,Cap,1,300.68,0.15,300.68,15.36
+ORD1178,2023-05-17,Neha Mehta,Home Office,East,Patna,Electronics,Laptop Stand,1,1296.12,0.0,1296.12,262.91
+ORD1681,2024-05-02,Anjali Mehta,Home Office,East,Kolkata,Clothing,Jeans,1,1343.21,0.0,1343.21,110.93
+ORD1329,2023-08-29,Manish Verma,Corporate,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1531.33,0.0,1531.33,306.16
+ORD1315,2024-01-03,Siddharth Sharma,Consumer,East,Bhubaneswar,Clothing,Jeans,4,1291.93,0.1,5167.72,385.09
+ORD1416,2023-07-16,Siddharth Chauhan,Consumer,South,Bangalore,Electronics,USB Cable,2,190.9,0.15,381.8,27.69
+ORD1358,2023-07-05,Priya Chauhan,Home Office,South,Bangalore,Electronics,Webcam,-1,2010.12,0.05,2010.12,418.44
+ORD1348,2024-09-25,Rahul Verma,Home Office,South,Hyderabad,Electronics,Laptop Stand,5,1283.63,0.05,6418.15,2080.06
+ORD1643,2023-08-26,Karan Kapoor,Home Office,West,Mumbai,Electronics,Power Bank,1,974.01,0.05,974.01,208.11
+ORD1299,2024-06-01,Rahul Iyer,Corporate,West,Mumbai,Clothing,Jeans,3,1280.32,0.0,3840.96,1264.56
+ORD1755,2023-07-25,Rohan Nair,Corporate,South,Hyderabad,Clothing,Cap,1,306.09,0.0,306.09,39.59
+ORD1833,2023-04-17,Neha Nair,Home Office,South,Hyderabad,Stationery,Stapler,1,136.26,0.0,136.26,29.27
+ORD1780,2023-01-21,Riya Verma,Home Office,North,Chandigarh,Electronics,Webcam,3,1849.69,0.0,5549.07,1668.69
+ORD1699,2024-08-15,Divya Mehta,Corporate,east,,Stationery,Sticky Notes,1,101.77,0.05,101.77,14.82
+ORD1891,2024-10-22,Pooja Rao,Corporate,South,Chennai,Electronics,Webcam,1,2030.69,0.0,2030.69,214.61
+ORD1653,2023-11-19,Priya Mehta,Consumer,South,Bangalore,Stationery,Stapler,2,138.37,0.2,276.74,
+ORD1250,2023-12-01,Amit Nair,Home Office,East,Kolkata,Furniture,Desk Lamp,2,967.92,0.05,1935.84,505.39
+ORD1794,2023-03-20,Anjali Kapoor,Consumer,North,Chandigarh,Furniture,Bookshelf,2,3708.53,0.1,7417.06,2114.71
+ORD1016,2024-08-07,Riya Singh,Corporate,East,Patna,Furniture,Filing Cabinet,4,3190.79,0.05,12763.16,1539.36
+ORD1994,2024-12-05,Siddharth Joshi,Corporate,West,,Electronics,Laptop Stand,2,1238.14,0.0,2476.28,699.49
+ORD1160,2023-04-10,Karan Das,Corporate,West,Ahmedabad,Electronics,Webcam,1,1972.02,0.0,1972.02,581.0
+ORD1722,2024-03-18,Anjali Kapoor,Home Office,West,Ahmedabad,Electronics,Bluetooth Speaker,1,1449.37,0.1,1449.37,303.63
+ORD2180,2023-05-09,Siddharth Mehta,Corporate,South,Bangalore,Furniture,Filing Cabinet,5,3499.31,0.1,17496.55,2192.22
+ORD1361,2023-08-15,Arjun Chauhan,Corporate,East,Bhubaneswar,Clothing,Jeans,1,1234.87,0.1,1234.87,250.71
+ORD1049,2023-02-01,Rahul Kapoor,Consumer,North,Chandigarh,Electronics,Wireless Mouse,2,629.88,0.15,1259.76,74.11
+ORD1203,2023-12-06,Priya Iyer,Consumer,North,Lucknow,Electronics,USB Cable,4,210.92,0.2,843.68,204.96
+ORD1331,2023-02-25,Karan Das,Home Office,East,Patna,Furniture,Study Table,1,6440.2,0.1,6440.2,1661.35
+ORD1985,2024-12-05,Kavya Joshi,Corporate,North,Chandigarh,Furniture,Desk Lamp,2,937.03,0.05,1874.06,422.37
+ORD1501,2023-10-14,Amit Iyer,Corporate,West,Ahmedabad,Electronics,Power Bank,6,1044.02,0.05,6264.12,1229.69
+ORD1113,2023-10-24,Anjali Singh,Home Office,North,Chandigarh,Furniture,Filing Cabinet,2,3307.49,0.0,6614.98,2254.87
+ORD1339,2024-07-29,Pooja Joshi,Home Office,South,Hyderabad,Furniture,Bookshelf,3,3647.17,0.0,10941.51,2561.1
+ORD1308,2024-11-27,Kavya Rao,Corporate,West,Mumbai,Stationery,Stapler,2,135.34,0.05,270.68,31.13
+ORD1732,2023-07-26,Kavya Iyer,Consumer,East,Bhubaneswar,Electronics,Wireless Mouse,1,572.84,0.15,572.84,60.81
+ORD1423,2023-10-09,Amit Das,Consumer,West,Mumbai,Furniture,Filing Cabinet,5,3283.15,0.15,16415.75,2539.85
+ORD1417,2023-07-23,Rohan Reddy,Corporate,North,Lucknow,Electronics,USB Cable,5,195.44,0.0,977.2,281.6
+ORD2014,2024-03-10,Rohan Mehta,Corporate,South,Bangalore,Clothing,Cap,1,314.01,0.0,314.01,72.58
+ORD1967,2024-03-27,Divya Iyer,Corporate,North,Lucknow,Stationery,Stapler,2,130.47,0.0,260.94,34.62
+ORD1783,2024-06-15,Manish Patel,Home Office,South,Chennai,Clothing,T-Shirt,1,490.16,0.15,490.16,41.28
+ORD2150,2023-05-03,Amit Das,Corporate,East,Kolkata,Clothing,T-Shirt,1,520.24,0.1,520.24,25.58
+ORD1639,2023-06-01,Anjali Patel,Home Office,West,Ahmedabad,Clothing,Jeans,3,1248.59,0.0,3745.77,321.73
+ORD1396,2024-09-19,Arjun Iyer,Corporate,North,Delhi,Stationery,Sticky Notes,1,101.53,0.15,101.53,5.64
+ORD1611,2024-10-26,Karan Reddy,Corporate,East,Bhubaneswar,Furniture,Office Chair,2,4851.61,0.1,9703.22,2087.68
+ORD1460,2023-07-04,Vikram Mehta,Corporate,South,Chennai,Stationery,Sticky Notes,2,95.21,0.1,190.42,53.93
+ORD1563,2023-06-07,Riya Verma,Home Office,East,Bhubaneswar,Furniture,Study Table,3,5874.15,0.0,17622.45,5958.63
+ORD1128,2023-04-16,Sneha Nair,Consumer,South,Chennai,Electronics,USB Cable,2,211.66,0.1,423.32,71.67
+ORD1674,2023-05-04,Kavya Reddy,Home Office,South,Chennai,Clothing,Jacket,3,2496.04,0.0,7488.12,1083.52
+ORD2172,2024-03-24,Priya Joshi,Home Office,South,Bangalore,Stationery,Notebook Pack,2,195.3,0.1,390.6,58.33
+ORD1566,2023-10-07,Neha Sharma,Corporate,North,Delhi,Electronics,Power Bank,2,966.65,0.0,1933.3,630.77
+ORD1596,2024-06-12,Rohan Joshi,,West,Ahmedabad,Stationery,Pen Set,2,158.61,0.15,317.22,50.99
+ORD1450,2024-03-12,Karan Reddy,Home Office,West,Ahmedabad,Clothing,Jeans,2,1304.53,0.2,2609.06,588.68
+ORD1238,2024-08-02,Priya Sharma,Consumer,South,Chennai,Electronics,Laptop Stand,2,1291.09,0.15,2582.18,562.51
+ORD1168,2024-12-07,Arjun Nair,Consumer,East,Kolkata,Clothing,Jacket,4,2624.58,0.0,10498.32,1828.56
+ORD1730,2024-07-01,Rahul Joshi,Corporate, South ,Bangalore,Stationery,Stapler,1,124.24,0.1,124.24,9.38
+ORD2085,2024-04-30,Arjun Iyer,Corporate,West,Mumbai,Clothing,Jeans,2,1289.05,0.05,2578.1,690.83
+ORD1081,2023-03-12,Divya Iyer,Home Office,West,Pune,Stationery,Sticky Notes,1,105.28,0.0,105.28,27.88
+ORD1415,2024-05-25,Priya Gupta,Consumer,South,Bangalore,Furniture,Bookshelf,3,3515.21,0.2,10545.63,1109.35
+ORD1664,2024-09-08,Neha Kapoor,Corporate,North,Lucknow,Electronics,Webcam,5,1895.23,0.15,9476.15,329.68
+ORD1301,2023-08-15,Arjun Joshi,Corporate,West,Mumbai,Electronics,Webcam,1,1996.57,0.05,1996.57,475.14
+ORD1817,2024-12-11,Amit Patel,Corporate,East,Patna,Clothing,Jacket,2,2388.81,0.1,4777.62,656.08
+ORD1325,2023-04-17,Manish Patel,Home Office,North,Delhi,Stationery,Notebook Pack,3,214.44,0.0,643.32,154.08
+ORD1552,2023-12-28,Anjali Rao,Home Office,South,Chennai,Electronics,Laptop Stand,2,1364.04,0.0,2728.08,340.79
+ORD1216,2024-11-05,Amit Reddy,Home Office,North,Chandigarh,Stationery,Pen Set,1,153.82,0.1,153.82,37.39
+ORD2131,2024-12-26,Siddharth Kapoor,Home Office,West,Mumbai,Furniture,Bookshelf,4,3371.34,0.05,13485.36,3790.75
+ORD1031,2024-04-16,Kavya Iyer,Consumer,North,Chandigarh,Clothing,Cap,3,292.7,0.0,878.1,264.79
+ORD1661,2023-03-05,Rohan Reddy,Consumer,West,Mumbai,Electronics,USB Cable,1,210.48,0.0,210.48,24.23
+ORD1243,2024-09-16,Rohan Joshi,Home Office,South,Hyderabad,Clothing,Jeans,2,1245.6,0.05,2491.2,433.04
+ORD1723,2023-01-08,Siddharth Kapoor,Consumer,East,Patna,Electronics,Power Bank,1,1037.99,0.2,1037.99,104.16
+ORD1761,2023-02-16,Manish Iyer,Home Office,South,Bangalore,Clothing,Jacket,1,2379.45,0.2,2379.45,425.14
+ORD1893,2023-01-11,Pooja Iyer,Consumer,North,Chandigarh,Clothing,T-Shirt,1,475.95,0.0,475.95,165.75
+ORD2083,2023-07-07,Kavya Iyer,Corporate,East,Kolkata,Clothing,Cap,2,297.36,0.0,594.72,65.03
+ORD1210,2023-11-29,Amit Rao,Home Office,West,Mumbai,Electronics,Laptop Stand,3,1327.64,0.0,3982.92,763.64
+ORD1695,2024-09-01,Rohan Kapoor,Consumer,North,Chandigarh,Furniture,Filing Cabinet,1,3216.6,0.1,3216.6,611.41
+ORD1565,2024-01-18,Arjun Patel,Home Office,West,Pune,Stationery,Sticky Notes,3,106.59,0.05,319.77,67.25
+ORD1768,2023-07-14,Karan Singh,Corporate,South,Chennai,Clothing,T-Shirt,2,494.21,0.1,988.42,291.15
+ORD1949,2023-09-08,Siddharth Reddy,Home Office,South,Chennai,Electronics,Wireless Mouse,2,593.51,0.2,1187.02,17.83
+ORD1436,2024-12-07,Divya Sharma,Home Office,North,Lucknow,Electronics,USB Cable,5,193.52,0.1,967.6,53.94
+ORD1028,2023-06-02,Vikram Mehta,Consumer,West,Ahmedabad,Electronics,Wireless Mouse,2,642.64,0.05,1285.28,360.32
+ORD2079,2024-05-13,Pooja Chauhan,Consumer,West,Mumbai,Furniture,Office Chair,1,5101.52,0.0,5101.52,421.35
+ORD2194,2024-01-25,Arjun Rao,Corporate,North,Lucknow,Furniture,Bookshelf,4,3497.21,0.0,13988.84,3745.2
+ORD1123,2024-12-02,Neha Sharma,Corporate,West,Ahmedabad,Stationery,Pen Set,5,154.53,0.0,772.65,201.68
+ORD2105,2024-10-28,Arjun Rao,Home Office,East,Kolkata,Furniture,Bookshelf,4,3428.38,0.15,13713.52,127.25
+ORD1564,2023-10-11,Neha Kapoor,Corporate,East,Bhubaneswar,Electronics,Power Bank,2,1032.79,0.2,2065.58,-4.1
+ORD1404,2024-01-07,Manish Mehta,Consumer,East,Patna,Stationery,Whiteboard,3,851.25,0.1,2553.75,435.8
+ORD2200,2024-03-29,Anjali Iyer,Corporate,South,Chennai,Electronics,Power Bank,4,1025.91,0.0,4103.64,335.29
+ORD1363,2023-03-19,Rahul Chauhan,Home Office,South,Hyderabad,Electronics,Power Bank,1,1064.16,0.15,1064.16,
+ORD1272,2023-04-13,Priya Singh,Consumer,North,Chandigarh,Furniture,Filing Cabinet,5,3562.75,0.0,17813.75,2584.98
+ORD1467,2023-02-20,Anjali Joshi,Corporate,North,Lucknow,Furniture,Filing Cabinet,4,3262.04,0.0,13048.16,4544.79
+ORD2080,2023-01-01,Arjun Reddy,Home Office,West,Ahmedabad,Electronics,Power Bank,2,1028.84,0.0,2057.68,390.83
+ORD1770,2024-12-20,Sneha Nair,Home Office,West,Ahmedabad,Furniture,Filing Cabinet,3,3255.59,0.05,9766.77,1351.73
+ORD1278,2023-01-02,Siddharth Chauhan,Home Office,South,Chennai,Electronics,Power Bank,1,987.3,0.15,987.3,
+ORD2078,2023-02-22,Rohan Reddy,Consumer,South,Bangalore,Furniture,Filing Cabinet,1,3338.74,0.0,3338.74,838.54
+ORD1620,2023-11-17,Arjun Rao,Corporate,South,Bangalore,Electronics,Webcam,1,1910.93,0.2,1910.93,219.35
+ORD1692,2023-02-04,Amit Singh,Consumer,West,Mumbai,Stationery,Stapler,5,124.64,0.0,623.2,199.63
+ORD1443,2023-03-29,Vikram Chauhan,Corporate,South,Chennai,Electronics,Bluetooth Speaker,1,1462.96,0.0,1462.96,138.58
+ORD1300,2023-06-17,Amit Nair,Consumer,West,Ahmedabad,Furniture,Study Table,1,6156.74,0.1,6156.74,614.68
+ORD1376,2024-09-09,Pooja Das,Corporate,North,Lucknow,Furniture,Office Chair,2,4809.61,0.05,9619.22,532.17
+ORD1658,2024-06-03,Sneha Reddy,,West,Ahmedabad,Electronics,Wireless Mouse,1,634.58,0.0,634.58,58.94
+ORD1795,2024-03-10,Vikram Reddy,Corporate,North,,Electronics,USB Cable,1,209.96,0.05,209.96,64.41
+ORD2111,2024-01-10,Sneha Reddy,Corporate,North,Chandigarh,Furniture,Bookshelf,2,3382.36,0.2,6764.72,1085.58
+ORD1473,2023-10-16,Karan Singh,Consumer,East,Bhubaneswar,Furniture,Desk Lamp,2,855.37,0.1,1710.74,193.48
+ORD2061,2023-09-13,Amit Gupta,Consumer,North,Lucknow,Furniture,Study Table,1,6436.41,0.0,6436.41,1601.92
+ORD2098,2023-01-20,Vikram Nair,Consumer,West,Mumbai,Furniture,Bookshelf,3,3326.94,0.0,9980.82,1667.23
+ORD1389,2024-04-14,Rahul Reddy,Consumer,West,Ahmedabad,Furniture,Desk Lamp,5,942.58,0.05,4712.9,1400.02
+ORD1023,2024-11-16,Divya Reddy,Corporate,West,Ahmedabad,Furniture,Filing Cabinet,2,3269.73,0.0,6539.46,1221.98
+ORD2147,2024-07-27,Neha Reddy,Home Office,west,Pune,Furniture,Office Chair,1,5368.48,0.0,5368.48,1372.05
+ORD1898,2023-08-10,Riya Verma,Corporate,South,Hyderabad,Electronics,USB Cable,1,190.61,0.0,190.61,35.07
+ORD1424,2024-10-15,Rahul Kapoor,Corporate,West,Pune,Stationery,Stapler,3,128.71,0.0,386.13,
+ORD1978,2023-08-26,Rohan Das,Home Office,South,Chennai,Clothing,Jacket,3,2695.28,0.05,8085.84,752.56
+ORD1736,2024-05-26,Anjali Nair,Consumer,East,Kolkata,Electronics,Bluetooth Speaker,3,1504.16,0.2,4512.48,33.8
+ORD1667,2024-10-13,Vikram Chauhan,Home Office,East,Bhubaneswar,Furniture,Filing Cabinet,2,3191.01,0.1,6382.02,1341.18
+ORD1322,2023-02-10,Karan Mehta,Home Office,West,Pune,Electronics,Wireless Mouse,1,576.82,0.15,576.82,
+ORD1143,2024-04-05,Amit Kapoor,Consumer,East,Bhubaneswar,Electronics,Webcam,1,1812.04,0.15,1812.04,191.07
+ORD1051,2024-01-20,Amit Kapoor,Home Office,East,Kolkata,Furniture,Bookshelf,4,3585.96,0.0,14343.84,3916.64
+ORD1901,2023-01-30,Neha Nair,Consumer,North,Lucknow,Electronics,Wireless Mouse,1,638.67,0.0,638.67,142.64
+ORD1753,2023-08-03,Divya Sharma,Consumer,North,Delhi,Stationery,Whiteboard,1,843.62,0.15,843.62,94.87
+ORD1082,2023-01-30,Divya Gupta,Corporate,North,Chandigarh,Clothing,T-Shirt,2,502.83,0.0,1005.66,296.63
+ORD1483,2024-09-29,Neha Das,Corporate,West,Ahmedabad,Electronics,Bluetooth Speaker,1,1454.74,0.05,1454.74,120.22
+ORD1322,2023-02-10,Karan Mehta,Home Office,West,Pune,Electronics,Wireless Mouse,1,576.82,0.15,576.82,
+ORD2107,2024-03-05,Vikram Rao,Home Office,South,Hyderabad,Stationery,Whiteboard,3,823.2,0.0,2469.6,821.88
+ORD1925,2023-04-10,Rahul Chauhan,Home Office,South,Bangalore,Electronics,Bluetooth Speaker,1,1541.71,0.0,1541.71,166.46
+ORD2157,2023-05-04,Divya Verma,Corporate,West,Mumbai,Stationery,Stapler,3,137.45,0.1,412.35,47.07
+ORD1067,2023-06-19,Divya Reddy,Consumer,south,Hyderabad,Electronics,Laptop Stand,1,1373.64,0.1,1373.64,261.9
+ORD2186,2024-01-01,Rohan Nair,Consumer,North,Delhi,Electronics,Wireless Mouse,1,594.86,0.0,594.86,71.78
+ORD1557,2024-09-14,Kavya Singh,Corporate,West,Ahmedabad,Stationery,Sticky Notes,1,98.65,0.05,98.65,20.97
+ORD2025,2024-08-15,Manish Chauhan,Home Office,South,Chennai,Electronics,USB Cable,2,195.89,0.0,391.78,113.04
+ORD1418,2024-06-17,Divya Iyer,Corporate,East,Bhubaneswar,Electronics,Power Bank,4,954.53,0.0,3818.12,801.55
+ORD1735,2023-01-13,Amit Joshi,Corporate,South,Bangalore,Electronics,Bluetooth Speaker,2,1426.97,0.0,2853.94,581.83
+ORD1065,2023-06-10,Riya Nair,Consumer,South,Chennai,Stationery,Pen Set,2,146.2,0.0,292.4,58.96
+ORD1931,2023-06-05,Karan Reddy,Home Office,South,Chennai,Clothing,Cap,1,303.99,0.0,303.99,83.35
+ORD1922,2024-04-16,Arjun Chauhan,Home Office,south,Chennai,Stationery,Sticky Notes,4,104.44,0.1,417.76,22.08
+ORD1721,2024-02-25,Vikram Das,Corporate,North,Chandigarh,Electronics,Webcam,1,1806.78,0.0,1806.78,627.3
+ORD1492,2024-09-02,Riya Joshi,Home Office,West,Mumbai,Electronics,USB Cable,1,190.85,0.1,190.85,25.25
+ORD1726,2023-10-08,Rohan Reddy,Corporate,North,Chandigarh,Stationery,Notebook Pack,6,195.25,0.0,1171.5,383.55
+ORD1818,2023-01-04,Rahul Singh,Home Office,West,Ahmedabad,Stationery,Sticky Notes,1,101.86,0.0,101.86,14.14
+ORD1066,2023-09-28,Rohan Mehta,Consumer,South,Chennai,Stationery,Sticky Notes,1,94.97,0.1,94.97,18.88
+ORD2009,2023-09-27,Siddharth Gupta,Home Office,South,Bangalore,Furniture,Office Chair,1,5223.88,0.05,5223.88,466.02
+ORD1633,2023-04-21,Manish Joshi,Home Office,West,Pune,Furniture,Filing Cabinet,1,3166.87,0.05,3166.87,527.33
+ORD1999,2024-10-07,Riya Kapoor,,West,Pune,Furniture,Office Chair,1,5166.8,0.0,5166.8,649.46
+ORD1297,2024-01-18,Anjali Verma,Corporate, North ,Delhi,Furniture,Study Table,3,6276.89,0.1,18830.67,3184.7
+ORD1420,2023-04-02,Karan Singh,Home Office,North,Delhi,Furniture,Study Table,1,6235.92,0.0,6235.92,1340.59
+ORD1439,2023-10-24,Riya Kapoor,Home Office,West,Pune,Stationery,Stapler,2,131.01,0.0,262.02,44.74
+ORD1262,2023-11-19,Karan Reddy,Corporate,North,Chandigarh,Stationery,Pen Set,2,146.14,0.1,292.28,66.8
+ORD1719,2024-04-07,Anjali Verma,Home Office,West,Mumbai,Furniture,Desk Lamp,1,909.54,0.05,909.54,124.84
+ORD1282,2023-06-16,Priya Nair,Consumer,West,Mumbai,Stationery,Stapler,2,133.47,0.0,266.94,78.96
+ORD1991,2023-01-22,Karan Gupta,Home Office,North,Lucknow,Stationery,Pen Set,1,153.27,0.1,153.27,8.33
+ORD1701,2024-01-07,Sneha Patel,Corporate,East,Patna,Electronics,USB Cable,5,193.82,0.0,969.1,171.17
+ORD1189,2024-08-28,Pooja Das,,South,Hyderabad,Furniture,Study Table,1,5933.4,0.15,5933.4,1490.03
+ORD1944,2023-05-13,Priya Reddy,Home Office,West,Ahmedabad,Stationery,Notebook Pack,2,212.01,0.0,424.02,38.7
+ORD1252,2023-12-22,Arjun Patel,Corporate,South,Bangalore,Electronics,Bluetooth Speaker,3,1560.75,0.05,4682.25,1297.34
+ORD1910,2024-06-14,Riya Verma,Corporate,East,Bhubaneswar,Furniture,Bookshelf,1,3461.03,0.1,3461.03,904.64
+ORD1515,2023-09-22,Manish Verma,Corporate,North,Chandigarh,Stationery,Sticky Notes,5,99.05,0.2,495.25,25.49
+ORD2056,2023-08-29,Siddharth Kapoor,Consumer,West,Mumbai,Stationery,Whiteboard,2,816.85,0.0,1633.7,367.83
+ORD1488,2024-05-05,Neha Kapoor,Home Office,East,Bhubaneswar,Furniture,Office Chair,1,4791.53,0.0,4791.53,604.29
+ORD1274,2023-02-08,Kavya Sharma,Home Office,South,Hyderabad,Clothing,Cap,1,305.12,0.0,305.12,43.57
+ORD1983,2023-09-09,Kavya Joshi,Consumer,East,Kolkata,Stationery,Notebook Pack,2,213.61,0.0,427.22,77.57
+ORD2092,2023-12-02,Divya Rao,Consumer, South ,Hyderabad,Electronics,Bluetooth Speaker,4,1533.54,0.05,6134.16,1431.63
+ORD1449,2023-08-19,Vikram Verma,Home Office,East,Bhubaneswar,Clothing,T-Shirt,4,535.3,0.0,2141.2,689.97
+ORD1412,2024-09-19,Divya Joshi,Home Office,South,Chennai,Electronics,Power Bank,3,980.16,0.1,2940.48,
+ORD1876,2024-10-11,Kavya Nair,Consumer,North,Lucknow,Electronics,Power Bank,6,1044.4,0.0,6266.4,1605.33
+ORD1743,2024-04-23,Kavya Mehta,Consumer,South,Hyderabad,Furniture,Desk Lamp,1,881.67,0.0,881.67,242.33
+ORD1957,2023-05-16,Arjun Verma,Consumer,East,Kolkata,Clothing,Cap,4,313.03,0.15,1252.12,101.16
+ORD1973,2024-08-28,Priya Verma,Home Office,South,Hyderabad,Electronics,Laptop Stand,4,1385.6,0.05,5542.4,466.11
+ORD1150,2024-12-27,Divya Chauhan,Consumer,North,Delhi,Furniture,Bookshelf,1,3398.95,0.0,3398.95,1135.4
+ORD1219,2024-07-25,Manish Gupta,Corporate,West,Mumbai,Electronics,Laptop Stand,3,1271.54,0.05,3814.62,802.27
+ORD1240,2024-10-26,Kavya Mehta,Home Office,South,Chennai,Electronics,Laptop Stand,1,1276.33,0.0,1276.33,317.7
+ORD1744,2024-05-07,Siddharth Mehta,Consumer,South,Chennai,Electronics,USB Cable,1,214.09,0.0,214.09,73.35
+ORD1193,2024-08-24,Riya Iyer,Corporate,West,Ahmedabad,Stationery,Notebook Pack,1,211.65,0.1,211.65,38.29
+ORD1192,2024-04-05,Rohan Sharma,Corporate,South,Chennai,Electronics,Bluetooth Speaker,1,1488.41,0.1,1488.41,81.81
+ORD2064,2023-06-13,Amit Sharma,Home Office,West,Ahmedabad,Stationery,Stapler,4,136.6,0.0,546.4,150.23
+ORD1619,2023-02-12,Riya Gupta,Corporate,West,Pune,Clothing,Jacket,4,2417.01,0.05,9668.04,1211.2
+ORD2149,2023-11-08,Pooja Patel,Home Office,South,Chennai,Electronics,USB Cable,3,197.07,0.0,591.21,174.75
+ORD1896,2024-02-28,Kavya Kapoor,Corporate,North,Delhi,Electronics,Bluetooth Speaker,4,1570.79,0.05,6283.16,1479.2
+ORD1618,2024-04-27,Priya Sharma,Corporate,East,Kolkata,Electronics,Wireless Mouse,4,573.11,0.15,2292.44,628.4
+ORD1964,2024-01-19,Rahul Patel,Corporate,East,Patna,Stationery,Whiteboard,4,860.33,0.0,3441.32,1179.84
+ORD1734,2024-10-01,Pooja Verma,Consumer,North,Chandigarh,Furniture,Bookshelf,2,3470.83,0.15,6941.66,775.16
+ORD1583,2023-03-11,Anjali Mehta,Home Office,West,Pune,Electronics,Bluetooth Speaker,3,1429.84,0.0,4289.52,374.14
+ORD2127,2023-03-14,Karan Nair,Consumer,West,Pune,Stationery,Stapler,2,135.01,0.15,270.02,56.34
+ORD1324,2024-01-30,Pooja Joshi,Consumer,East,Bhubaneswar,Electronics,USB Cable,2,199.4,0.05,398.8,
+ORD1955,2023-12-11,Rahul Gupta,Home Office,North,Lucknow,Stationery,Notebook Pack,4,212.59,0.1,850.36,161.19
+ORD1882,2023-05-10,Amit Gupta,Home Office,North,Delhi,Electronics,Bluetooth Speaker,3,1466.87,0.0,4400.61,924.24
+ORD1682,2024-11-18,Siddharth Chauhan,Home Office,West,Pune,Furniture,Office Chair,5,5099.1,0.05,25495.5,3832.19
+ORD1438,2023-11-23,Kavya Patel,Consumer,North,Lucknow,Stationery,Sticky Notes,4,94.75,0.05,379.0,54.29
+ORD1798,2023-12-13,Sneha Nair,Corporate,East,Kolkata,Furniture,Study Table,5,5832.01,0.1,29160.05,7573.15
+ORD2075,2023-03-10,Amit Singh,Consumer,East,Patna,Electronics,Power Bank,1,961.89,0.0,961.89,326.7
+ORD1342,2024-01-26,Karan Das,Consumer,West,Mumbai,Furniture,Bookshelf,1,3639.25,0.0,3639.25,1231.19
+ORD1003,2023-12-11,Neha Kapoor,Corporate,South,Hyderabad,Furniture,Bookshelf,5,3394.77,0.0,16973.85,1801.15
+ORD1230,2024-08-02,Sneha Kapoor,Consumer,East,Kolkata,Electronics,Webcam,3,1875.31,0.1,5625.93,1332.21
+ORD1670,2024-11-05,Rohan Iyer,Home Office, North ,Lucknow,Furniture,Study Table,3,6091.04,0.0,18273.12,1555.46
+ORD2173,2023-12-16,Rohan Joshi,Consumer,South,Bangalore,Stationery,Notebook Pack,5,203.76,0.15,1018.8,101.4
+ORD1077,2024-04-11,Kavya Kapoor,Corporate,West,Ahmedabad,Furniture,Bookshelf,2,3575.1,0.15,7150.2,1714.56
+ORD2122,2024-02-15,Pooja Reddy,Corporate,South,Hyderabad,Clothing,Cap,1,317.41,0.0,317.41,102.61
+ORD1372,2024-08-09,Anjali Das,Corporate,North,Delhi,Furniture,Desk Lamp,2,869.8,0.0,1739.6,217.3
+ORD1181,2024-04-01,Pooja Reddy,Home Office,West,Mumbai,Stationery,Stapler,4,130.75,0.1,523.0,79.72
+ORD1737,2024-12-05,Amit Gupta,Consumer,East,Patna,STATIONERY,Pen Set,3,147.98,0.2,443.94,70.99
+ORD1578,2023-12-02,Divya Joshi,Corporate,South,Chennai,Stationery,Whiteboard,2,816.92,0.0,1633.84,255.82
+ORD1762,2024-05-02,Sneha Rao,Corporate,West,Pune,Stationery,Notebook Pack,4,198.06,0.2,792.24,167.49
+ORD1786,2023-05-27,Arjun Joshi,Home Office,South,Chennai,Furniture,Bookshelf,4,3631.78,0.05,14527.12,1075.74
+ORD2040,2024-06-03,Riya Joshi,Home Office,North,Lucknow,Clothing,T-Shirt,1,484.49,0.0,484.49,98.24
+ORD2199,2023-07-17,Riya Kapoor,Home Office,South,Bangalore,Electronics,Wireless Mouse,2,599.18,0.0,1198.36,159.71
+ORD2041,2023-04-29,Manish Das,Corporate,West,Pune,Stationery,Whiteboard,3,803.19,0.05,2409.57,654.57
+ORD1590,2024-10-25,Amit Chauhan,Corporate, East ,Bhubaneswar,Furniture,Office Chair,2,5178.77,0.05,10357.54,3115.6
+ORD1800,2023-04-20,Anjali Mehta,Corporate,West,,Electronics,Webcam,1,1917.7,0.0,1917.7,614.34
+ORD1843,2024-07-21,Divya Rao,Consumer,South,Bangalore,Electronics,USB Cable,4,206.64,0.1,826.56,82.39
+ORD1997,2023-10-13,Kavya Mehta,Consumer,West,Pune,Electronics,Wireless Mouse,3,586.36,0.0,1759.08,474.56
+ORD2181,2024-11-12,Kavya Iyer,Home Office,West,Ahmedabad,Furniture,Study Table,2,6060.53,0.0,12121.06,2704.0
+ORD1038,2023-08-29,Rohan Patel,Consumer,East,Patna,Stationery,Stapler,3,128.17,0.05,384.51,44.47
+ORD1354,2023-03-06,Amit Gupta,Home Office,North,Chandigarh,Stationery,Stapler,3,122.65,0.1,367.95,69.22
+ORD2114,2023-02-05,Priya Singh,Consumer,East,Bhubaneswar,Electronics,Bluetooth Speaker,4,1536.95,0.1,6147.8,1511.98
+ORD1237,2024-10-12,Siddharth Iyer,Corporate,East,Patna,Electronics,Power Bank,6,961.15,0.15,5766.9,1267.76
+ORD1986,2023-10-27,Neha Das,Corporate,West,Ahmedabad,Stationery,Pen Set,4,158.55,0.0,634.2,158.62
+ORD1500,2023-02-04,Neha Verma,Home Office,South,Hyderabad,Furniture,Study Table,2,6421.65,0.2,12843.3,1713.3
+ORD1554,2023-06-16,Rahul Mehta,Corporate,North,Lucknow,Electronics,Laptop Stand,2,1259.03,0.05,2518.06,221.09
+ORD1056,2023-10-10,Amit Iyer,Home Office,South,Chennai,Stationery,Whiteboard,4,788.1,0.0,3152.4,1059.13
+ORD1303,2023-11-06,Sneha Sharma,Home Office,East,Bhubaneswar,Clothing,Jacket,3,2523.16,0.1,7569.48,1038.77
+ORD1287,2023-07-09,Anjali Reddy,Consumer,East,Bhubaneswar,Furniture,Bookshelf,2,3365.51,0.0,6731.02,1231.71
+ORD1830,2023-01-25,Neha Joshi,Corporate,North,Lucknow,Clothing,Cap,4,289.56,0.0,1158.24,213.18
+ORD1220,2024-05-09,Amit Verma,Home Office,West,Ahmedabad,Furniture,Filing Cabinet,5,3198.7,0.0,15993.5,3075.76
+ORD1659,2024-08-02,Kavya Gupta,Corporate,North,Chandigarh,Electronics,Bluetooth Speaker,5,1581.0,0.1,7905.0,2238.19
+ORD1388,2023-12-15,Arjun Rao,Corporate,East,Kolkata,Furniture,Office Chair,2,5112.09,0.1,10224.18,2947.75
+ORD1861,2023-03-12,Manish Chauhan,Corporate,North,Lucknow,Furniture,Bookshelf,1,3613.21,0.0,3613.21,368.77
+ORD1391,2024-07-21,Neha Iyer,Home Office,South,Chennai,Electronics,Power Bank,1,1046.3,0.15,1046.3,
+ORD1353,2023-09-22,Siddharth Mehta,Corporate,North,Delhi,Stationery,Stapler,3,123.73,0.0,371.19,74.91
+ORD1194,2024-05-05,Rohan Mehta,Consumer,East,Kolkata,Electronics,Bluetooth Speaker,1,1611.53,0.15,1611.53,310.73
+ORD1236,2023-04-06,Neha Reddy,Corporate,East,Patna,Furniture,Study Table,3,5757.94,0.0,17273.82,4878.93
+ORD2028,2023-02-04,Neha Chauhan,Consumer,West,Ahmedabad,Electronics,Webcam,2,1897.34,0.0,3794.68,410.76
+ORD1481,2023-02-15,Amit Gupta,Corporate,North,Chandigarh,Electronics,Webcam,1,1832.65,0.05,1832.65,394.86
+ORD1568,2023-04-09,Vikram Sharma,Consumer,East,Patna,Stationery,Whiteboard,2,830.25,0.05,1660.5,248.98
+ORD1117,2023-06-04,Divya Singh,Corporate,West,Ahmedabad,Clothing,Jacket,2,2654.82,0.0,5309.64,1097.02
+ORD1818,2023-01-04,Rahul Singh,Home Office,West,Ahmedabad,Stationery,Sticky Notes,1,101.86,0.0,101.86,14.14
+ORD1654,2024-06-16,Divya Rao,Home Office,South,Hyderabad,Electronics,Power Bank,3,1076.33,0.2,3228.99,300.98
+ORD1998,2024-04-08,Siddharth Singh,Consumer,West,Ahmedabad,Electronics,Laptop Stand,3,1362.85,0.0,4088.55,1403.61
+ORD2125,2023-05-24,Vikram Iyer,,South,Bangalore,Stationery,Notebook Pack,4,194.9,0.15,779.6,29.89
+ORD1793,2024-05-29,Kavya Nair,Home Office,West,Ahmedabad,Furniture,Study Table,3,6468.19,0.0,19404.57,6543.35
+ORD1805,2024-02-03,Rahul Patel,Consumer,South,Chennai,Stationery,Sticky Notes,4,100.51,0.0,402.04,136.12
+ORD1121,2024-10-08,Siddharth Nair,Corporate,East,Bhubaneswar,Furniture,Bookshelf,2,3632.86,0.0,7265.72,766.65
+ORD1846,2023-12-10,Sneha Verma,Consumer,South,Chennai,Electronics,Wireless Mouse,3,597.29,0.0,1791.87,222.09
+ORD2118,2023-05-10,Sneha Verma,Home Office,East,Kolkata,Stationery,Sticky Notes,5,102.32,0.0,511.6,175.62
+ORD1801,2023-06-07,Rahul Patel,Home Office, North ,Delhi,Furniture,Desk Lamp,2,863.95,0.0,1727.9,564.23
+ORD1063,2023-09-12,Kavya Singh,Home Office,North,Delhi,Electronics,Webcam,1,2038.36,0.0,2038.36,583.79
+ORD2057,2023-06-12,Siddharth Das,Corporate,North,Chandigarh,Electronics,Wireless Mouse,-1,613.49,0.1,613.49,181.46
+ORD1454,2024-05-03,Riya Rao,Home Office,South,Hyderabad,Electronics,Power Bank,1,952.44,0.0,952.44,293.79
+ORD1516,2024-03-17,Manish Rao,Corporate,South,Hyderabad,Electronics,Power Bank,1,1012.95,0.0,1012.95,256.99
+ORD1571,2023-05-12,Kavya Nair,Consumer,East,Kolkata,Stationery,Notebook Pack,1,208.31,0.15,208.31,
+ORD1224,2023-10-13,Anjali Gupta,Corporate,South,Chennai,Furniture,Study Table,1,5702.52,0.05,5702.52,1544.62
+ORD1614,2024-08-03,Pooja Singh,Corporate,West,Ahmedabad,Electronics,Wireless Mouse,1,643.65,0.0,643.65,176.37
+ORD1222,2023-04-22,Kavya Das,Consumer,East,Kolkata,Stationery,Notebook Pack,1,189.63,0.05,189.63,18.84
+ORD1697,2023-11-13,Rahul Das,Home Office,East,Bhubaneswar,Furniture,Filing Cabinet,3,3466.64,0.0,10399.92,1867.66
+ORD2167,2024-10-03,Arjun Mehta,Home Office,South,Hyderabad,Stationery,Sticky Notes,4,102.81,0.0,411.24,130.46
+ORD1466,2023-08-01,Neha Sharma,Consumer, North ,Delhi,Clothing,Jacket,2,2575.39,0.0,5150.78,618.24
+ORD1053,2024-03-06,Neha Joshi,Corporate,West,Ahmedabad,Electronics,Webcam,1,1963.91,0.1,1963.91,114.88
+ORD2112,2024-11-06,Divya Kapoor,Consumer, South ,Bangalore,Electronics,Bluetooth Speaker,1,1581.01,0.1,1581.01,353.61
+ORD1486,2024-04-21,Manish Verma,Corporate, East ,Bhubaneswar,Stationery,Stapler,4,123.87,0.05,495.48,39.68
+ORD2159,2024-05-17,Neha Sharma,Corporate,North,Lucknow,Furniture,Bookshelf,1,3436.05,0.0,3436.05,649.95
+ORD1952,2023-11-09,Vikram Sharma,Consumer,West,Pune,Electronics,Bluetooth Speaker,4,1588.02,0.0,6352.08,1146.84
+ORD1156,2024-09-22,Anjali Chauhan,Corporate,East,Bhubaneswar,Electronics,Wireless Mouse,4,572.99,0.0,2291.96,779.09
+ORD2195,2023-12-21,Arjun Verma,Corporate,East,Bhubaneswar,Stationery,Sticky Notes,2,99.29,0.05,198.58,37.13
+ORD1601,2024-01-08,Siddharth Chauhan,Home Office,East,Patna,Electronics,Wireless Mouse,2,639.18,0.05,1278.36,376.02
+ORD1908,2023-01-18,Kavya Das,Home Office,West,Ahmedabad,Electronics,Bluetooth Speaker,1,1516.14,0.05,1516.14,488.82
+ORD1249,2024-02-16,Vikram Nair,Consumer,North,Chandigarh,Furniture,Filing Cabinet,2,3463.04,0.0,6926.08,1557.48
+ORD1442,2023-01-25,Neha Kapoor,Corporate,West,Pune,Electronics,Bluetooth Speaker,2,1486.55,0.1,2973.1,225.06
+ORD2018,2023-05-03,Priya Gupta,Consumer,South,Hyderabad,Stationery,Pen Set,3,143.15,0.0,429.45,108.27
+ORD2115,2024-02-11,Riya Chauhan,Corporate,South,Bangalore,Electronics,Wireless Mouse,1,634.1,0.0,634.1,148.67
+ORD1543,2024-06-27,Arjun Rao,Home Office,West,Ahmedabad,Stationery,Notebook Pack,2,199.01,0.0,398.02,77.61
+ORD1118,2024-01-13,Amit Kapoor,Home Office,North,Chandigarh,Furniture,Bookshelf,1,3534.08,0.1,3534.08,179.24
+ORD1873,2023-02-22,Vikram Joshi,Corporate,West,Mumbai,Furniture,Study Table,2,5849.3,0.1,11698.6,2176.18
+ORD1629,2024-03-18,Vikram Gupta,Home Office,East,Patna,Stationery,Pen Set,2,143.89,0.1,287.78,80.25
+ORD1738,2023-01-14,Sneha Nair,Consumer,West,Pune,Furniture,Desk Lamp,3,912.88,0.0,2738.64,674.84
+ORD1954,2023-07-30,Priya Joshi,Corporate,West,Pune,Electronics,USB Cable,1,199.0,0.0,199.0,51.38
+ORD1292,2024-07-19,Manish Chauhan,Consumer,East,Bhubaneswar,Clothing,T-Shirt,2,479.7,0.0,959.4,148.3
+ORD2059,2024-04-05,Siddharth Nair,Consumer,West,Mumbai,Clothing,Cap,1,313.47,0.0,313.47,98.99
+ORD1382,2024-09-20,Anjali Mehta,Home Office,South,Bangalore,Electronics,USB Cable,3,209.39,0.05,628.17,154.43
+ORD1888,2023-08-11,Amit Kapoor,Home Office,East,Kolkata,Furniture,Study Table,1,5920.23,0.0,5920.23,918.07
+ORD1842,2023-01-14,Priya Kapoor,Consumer,east,Bhubaneswar,Furniture,Bookshelf,2,3526.0,0.0,7052.0,860.98
+ORD1201,2023-12-29,Siddharth Reddy,Home Office,North,Delhi,Furniture,Desk Lamp,3,876.48,0.1,2629.44,134.98
+ORD1597,2023-03-03,Vikram Iyer,Consumer,West,Pune,Clothing,Cap,3,320.38,0.05,961.14,
+ORD2019,2023-11-21,Neha Das,Consumer,East,Kolkata,Stationery,Notebook Pack,2,197.66,0.15,395.32,64.61
+ORD2156,2024-03-27,Anjali Das,Consumer,East,Kolkata,Clothing,Jeans,2,1335.32,0.1,2670.64,714.43
+ORD1538,2024-07-20,Riya Chauhan,Consumer,South,Chennai,Stationery,Stapler,2,137.74,0.15,275.48,7.81
+ORD1717,2024-12-03,Divya Gupta,Home Office,North,Chandigarh,STATIONERY,Whiteboard,3,794.35,0.1,2383.05,515.79
+ORD1506,2024-06-24,Amit Patel,Home Office,East,Kolkata,Electronics,Power Bank,1,979.72,0.15,979.72,95.59
+ORD1349,2023-02-10,Sneha Mehta,Corporate,East,Bhubaneswar,Electronics,Power Bank,2,1028.75,0.05,2057.5,291.45
+ORD1956,2024-11-25,Manish Mehta,Home Office,West,Pune,Stationery,Notebook Pack,3,209.94,0.15,629.82,162.65
+ORD1136,2024-12-02,Anjali Singh,Consumer,East,Kolkata,Electronics,Webcam,3,1887.63,0.2,5662.89,618.41
+ORD1341,2024-01-03,Kavya Rao,Home Office,East,Kolkata,Stationery,Whiteboard,2,780.24,0.1,1560.48,89.99
+ORD1616,2023-05-30,Kavya Kapoor,Corporate,South,Chennai,Stationery,Pen Set,2,149.65,0.0,299.3,102.83
+ORD1155,2024-01-15,Kavya Reddy,Consumer,East,Patna,Clothing,Jacket,1,2690.92,0.05,2690.92,225.15
+ORD2123,2024-07-23,Amit Sharma,Corporate,East,Kolkata,Stationery,Whiteboard,1,759.09,0.05,759.09,84.54
+ORD1790,2024-08-08,Sneha Sharma,Consumer,East,Patna,Stationery,Sticky Notes,1,95.28,0.15,95.28,14.67
+ORD1078,2024-01-26,Vikram Reddy,Consumer,South,Chennai,Electronics,Power Bank,4,1010.48,0.0,4041.92,1047.65
+ORD1288,2023-06-04,Amit Joshi,Corporate,East,Bhubaneswar,Furniture,Desk Lamp,2,951.88,0.1,1903.76,400.2
+ORD1323,2024-10-24,Arjun Rao,Consumer,North,Delhi,Clothing,T-Shirt,1,474.68,0.0,474.68,152.62
+ORD1914,2023-10-23,Vikram Reddy,Home Office,North,Chandigarh,Stationery,Stapler,3,138.79,0.2,416.37,47.76
+ORD1849,2023-04-14,Rahul Kapoor,Corporate,South,Hyderabad,Stationery,Whiteboard,3,801.35,0.05,2404.05,635.31
+ORD1825,2023-07-01,Rohan Verma,Consumer,West,Ahmedabad,Electronics,Laptop Stand,1,1237.6,0.1,1237.6,266.81
+ORD1083,2023-06-24,Siddharth Kapoor,,West,Mumbai,Electronics,USB Cable,3,203.69,0.0,611.07,149.44
+ORD1821,2024-12-23,Divya Gupta,Consumer,North,Lucknow,ELECTRONICS,Webcam,3,2044.06,0.0,6132.18,
+ORD1465,2023-08-11,Pooja Reddy,Consumer,West,Pune,Furniture,Office Chair,2,5144.16,0.05,10288.32,1887.31
+ORD1826,2024-06-23,Rahul Kapoor,Consumer,North,Chandigarh,Electronics,Power Bank,1,1075.07,0.0,1075.07,303.84
+ORD1784,2024-12-05,Priya Iyer,Consumer,West,Ahmedabad,Electronics,Laptop Stand,2,1336.41,0.05,2672.82,179.29
+ORD2189,2024-01-24,Neha Reddy,Home Office,South,Chennai,Electronics,Wireless Mouse,1,579.61,0.0,579.61,166.42
+ORD1799,2023-08-11,Priya Reddy,Home Office,West,Pune,Electronics,Wireless Mouse,2,626.52,0.15,1253.04,320.6
+ORD1334,2024-02-29,Sneha Singh,Corporate,South,Chennai,Stationery,Pen Set,1,155.43,0.0,155.43,39.01
+ORD1011,2023-11-02,Anjali Das,Home Office,East,Patna,Stationery,Stapler,6,137.85,0.05,827.1,79.62
+ORD1471,2024-07-30,Riya Reddy,Consumer,East,Bhubaneswar,Furniture,Filing Cabinet,1,3285.81,0.0,3285.81,909.77
+ORD1033,2023-12-20,Sneha Mehta,Home Office,East,Kolkata,Furniture,Bookshelf,3,3341.45,0.0,10024.35,3465.86
+ORD1834,2023-06-01,Riya Chauhan,Consumer,North,Delhi,Clothing,Jeans,1,1365.39,0.0,1365.39,375.16
+ORD1414,2023-10-16,Rahul Iyer,Consumer,North,Delhi,Electronics,Webcam,6,1809.51,0.0,10857.06,2153.74
+ORD1581,2024-05-26,Arjun Singh,Home Office,South,Chennai,Electronics,USB Cable,3,192.23,0.0,576.69,157.23
+ORD1383,2023-03-07,Priya Rao,Corporate,North,Delhi,Stationery,Sticky Notes,2,105.97,0.0,211.94,38.18
+ORD2076,2024-12-07,Anjali Sharma,Home Office,West,Ahmedabad,Furniture,Desk Lamp,3,883.98,0.0,2651.94,725.82
+ORD2166,2023-08-22,Priya Patel,Consumer,South,Hyderabad,Stationery,Whiteboard,5,861.3,0.0,4306.5,1318.66
+ORD2152,2024-04-30,Sneha Nair,Corporate,North,Chandigarh,Furniture,Study Table,1,6326.78,0.0,6326.78,1092.57
+ORD2006,2024-04-30,Vikram Reddy,Consumer,South,Chennai,Clothing,Jeans,3,1261.78,0.0,3785.34,728.31
+ORD2158,2024-09-19,Siddharth Singh,Corporate,South,Hyderabad,Furniture,Office Chair,2,5072.46,0.15,10144.92,2619.53
+ORD1379,2024-02-23,Arjun Nair,Home Office,North,Lucknow,Electronics,Power Bank,3,975.73,0.0,2927.19,356.5
+ORD1090,2024-11-23,Neha Verma,Corporate,East,Kolkata,Furniture,Office Chair,6,4840.52,0.2,29043.12,5728.43
+ORD1820,2023-02-22,Rohan Das,Consumer,East,Kolkata,Stationery,Whiteboard,1,855.36,0.05,855.36,104.55
+ORD1602,2024-11-11,Arjun Reddy,Consumer,South,Bangalore,Electronics,Power Bank,3,1014.02,0.15,3042.06,780.35
+ORD1214,2024-08-12,Arjun Chauhan,Corporate,South,Chennai,Clothing,Jacket,2,2612.79,0.1,5225.58,616.56
+ORD1333,2024-02-24,Rohan Verma,Corporate,East,Patna,Electronics,Bluetooth Speaker,3,1520.01,0.0,4560.03,1116.89
+ORD1134,2024-01-05,Rahul Mehta,Corporate,East,Kolkata,Furniture,Desk Lamp,1,931.7,0.0,931.7,206.87
+ORD1347,2023-06-13,Amit Gupta,Consumer,East,Patna,Electronics,Bluetooth Speaker,3,1525.5,0.0,4576.5,1029.71
+ORD1887,2023-01-10,Karan Iyer,Corporate,North,Delhi,Stationery,Whiteboard,1,774.12,0.0,774.12,64.21
+ORD1008,2024-08-21,Neha Iyer,Consumer,West,Mumbai,Electronics,Bluetooth Speaker,2,1569.23,0.0,3138.46,745.55
+ORD1870,2024-07-18,Riya Verma,Corporate,North,Lucknow,Electronics,USB Cable,3,194.53,0.0,583.59,77.5
+ORD1321,2024-06-07,Arjun Joshi,Consumer,North,Delhi,Stationery,Sticky Notes,1,95.97,0.0,95.97,26.43
+ORD2062,2024-01-13,Riya Rao,Consumer,West,Ahmedabad,Furniture,Desk Lamp,1,953.43,0.1,953.43,90.21
+ORD1188,2024-08-12,Karan Iyer,Corporate,South,Bangalore,Electronics,Laptop Stand,4,1273.59,0.0,5094.36,1229.97
+ORD2015,2023-01-06,Neha Nair,Home Office,South,Hyderabad,Clothing,Jeans,2,1308.7,0.05,2617.4,376.07
+ORD1553,2023-11-21,Anjali Iyer,Home Office,East,Kolkata,Clothing,Jeans,3,1261.28,0.0,3783.84,568.75
+ORD1305,2023-09-04,Siddharth Joshi,Corporate,East,Patna,Stationery,Whiteboard,2,778.61,0.15,1557.22,346.43
+ORD1032,2024-10-18,Karan Sharma,Consumer,South,Chennai,Electronics,Wireless Mouse,3,644.34,0.0,1933.02,666.72
+ORD2022,2023-03-30,Rahul Singh,Consumer,North,Lucknow,Clothing,T-Shirt,1,481.59,0.0,481.59,115.39
+ORD1685,2024-10-15,Riya Patel,,East,Bhubaneswar,Clothing,Jeans,6,1235.25,0.0,7411.5,1147.92
+ORD2084,2024-09-16,Karan Patel,Consumer,East,Bhubaneswar,Stationery,Sticky Notes,1,95.37,0.0,95.37,24.93
+ORD1241,2023-08-20,Rahul Rao,Corporate,North,Lucknow,Electronics,Bluetooth Speaker,1,1516.97,0.05,1516.97,
+ORD1068,2024-05-20,Pooja Rao,Corporate,West,Ahmedabad,Electronics,USB Cable,2,213.44,0.0,426.88,103.08
+ORD1175,2023-10-30,Siddharth Chauhan,Corporate,West,Ahmedabad,Electronics,Bluetooth Speaker,3,1426.79,0.05,4280.37,458.66
+ORD1767,2023-12-15,Sneha Kapoor,Corporate,West,Mumbai,Electronics,Wireless Mouse,3,591.71,0.15,1775.13,365.76
+ORD1246,2024-10-23,Kavya Reddy,Corporate,East,Kolkata,Furniture,Filing Cabinet,1,3214.95,0.1,3214.95,785.48
+ORD1057,2024-05-17,Divya Iyer,Corporate,West,Pune,Furniture,Desk Lamp,2,934.76,0.0,1869.52,158.27
+ORD1631,2024-04-19,Vikram Reddy,Home Office,South,Chennai,Stationery,Notebook Pack,1,190.1,0.05,190.1,43.7
+ORD1584,2024-06-16,Rohan Nair,Home Office,east,Kolkata,Electronics,Webcam,1,1827.83,0.1,1827.83,446.06
+ORD2043,2024-09-21,Priya Reddy,Corporate,North,Delhi,Electronics,Power Bank,1,1025.69,0.1,1025.69,156.77
+ORD1146,2024-07-17,Anjali Rao,Home Office,West,Mumbai,Stationery,Whiteboard,3,828.42,0.05,2485.26,734.79
+ORD1091,2023-09-26,Neha Verma,Home Office,North,Chandigarh,Furniture,Study Table,3,5986.5,0.05,17959.5,4975.73
+ORD2133,2024-04-16,Siddharth Chauhan,Home Office,West,Pune,Stationery,Notebook Pack,3,198.03,0.05,594.09,116.53
+ORD1393,2024-11-10,Priya Chauhan,Corporate,East,Kolkata,Stationery,Notebook Pack,3,212.86,0.05,638.58,166.89
+ORD1881,2023-01-31,Vikram Iyer,Corporate,North,Delhi,Furniture,Bookshelf,1,3745.52,0.05,3745.52,729.85
+ORD1683,2024-01-15,Kavya Rao,Consumer,East,Bhubaneswar,Electronics,Power Bank,1,1076.82,0.15,1076.82,134.64
+ORD1311,2024-10-08,Manish Nair,Consumer,South,Chennai,Clothing,Jeans,2,1365.59,0.0,2731.18,261.27
+ORD1360,2024-04-06,Vikram Kapoor,Home Office,South,Bangalore,Electronics,Wireless Mouse,1,639.14,0.0,639.14,164.93
+ORD1094,2024-05-16,Arjun Sharma,,West,Ahmedabad,Stationery,Pen Set,2,158.7,0.05,317.4,97.93
+ORD2129,2024-03-07,Arjun Chauhan,Home Office,East,Kolkata,Clothing,Cap,5,316.57,0.0,1582.85,171.58
+ORD2042,2023-07-03,Siddharth Chauhan,Home Office,West,Ahmedabad,Electronics,Webcam,1,2043.95,0.2,2043.95,252.55
+ORD1377,2024-01-26,Sneha Mehta,Consumer,East,Kolkata,Stationery,Sticky Notes,-3,97.0,0.0,291.0,86.5
+ORD1244,2023-04-13,Siddharth Gupta,Corporate,South,Chennai,Stationery,Sticky Notes,1,105.12,0.0,105.12,11.91
+ORD2095,2024-06-08,Priya Das,Corporate,West,Pune,Stationery,Notebook Pack,1,210.57,0.0,210.57,49.01
+ORD1088,2023-04-03,Pooja Patel,Consumer,North,Chandigarh,Stationery,Notebook Pack,3,204.04,0.15,612.12,57.06
+ORD1215,2024-11-29,Rohan Reddy,Corporate,East,Kolkata,Clothing,Jeans,4,1334.06,0.0,5336.24,1474.66
+ORD1445,2024-06-23,Divya Iyer,Home Office,South,Hyderabad,Stationery,Notebook Pack,4,198.79,0.0,795.16,100.18
+ORD1174,2024-05-31,Sneha Gupta,Consumer,West,Ahmedabad,FURNITURE,Study Table,1,6392.56,0.0,6392.56,844.2
+ORD1426,2023-05-13,Sneha Reddy,Consumer,East,Kolkata,Electronics,Power Bank,3,957.71,0.0,2873.13,254.11
+ORD2058,2024-10-07,Karan Das,Home Office,East,Kolkata,Furniture,Filing Cabinet,3,3253.65,0.05,9760.95,2347.0
+ORD1119,2024-10-29,Vikram Sharma,Corporate,West,Pune,Furniture,Office Chair,3,5041.32,0.0,15123.96,3152.13
+ORD1120,2023-09-11,Anjali Gupta,Corporate,North,Chandigarh,Clothing,T-Shirt,1,506.78,0.1,506.78,150.8
+ORD1946,2024-01-22,Pooja Das,Consumer,West,Ahmedabad,Stationery,Notebook Pack,1,203.34,0.05,203.34,34.78
+ORD1900,2023-10-12,Sneha Patel,Corporate,East,Bhubaneswar,Clothing,Jeans,2,1365.77,0.0,2731.54,445.05
+ORD1001,2024-11-23,Rahul Verma,Consumer,North,Delhi,Stationery,Pen Set,5,145.87,0.0,729.35,141.43
+ORD1395,2024-12-03,Manish Gupta,Home Office,West,Pune,Clothing,T-Shirt,1,506.65,0.0,506.65,57.0
+ORD1402,2023-03-22,Vikram Chauhan,Consumer,East,Bhubaneswar,Stationery,Sticky Notes,2,104.02,0.0,208.04,32.74
+ORD1405,2024-12-18,Sneha Verma,Corporate,South,Bangalore,Electronics,Bluetooth Speaker,4,1553.06,0.0,6212.24,1162.95
+ORD1942,2023-09-27,Pooja Nair,Consumer,north,Lucknow,Stationery,Notebook Pack,4,204.13,0.05,816.52,52.02
+ORD1879,2024-12-04,Manish Singh,Consumer,West,Mumbai,Furniture,Study Table,2,6447.11,0.0,12894.22,2123.26
+ORD1163,2024-03-02,Rahul Kapoor,Corporate,East,Bhubaneswar,Stationery,Whiteboard,1,793.46,0.05,793.46,214.33
+ORD1115,2024-06-27,Neha Gupta,Home Office,East,Kolkata,Electronics,Bluetooth Speaker,2,1438.93,0.05,2877.86,862.2
+ORD1671,2024-05-18,Pooja Patel,Corporate, West ,Mumbai,Stationery,Stapler,2,127.92,0.15,255.84,2.89
+ORD1151,2024-09-21,Anjali Kapoor,Home Office,East,Kolkata,Stationery,Stapler,2,127.15,0.05,254.3,48.49
+ORD2144,2023-11-24,Vikram Gupta,Home Office,East,Bhubaneswar,Furniture,Bookshelf,6,3733.46,0.0,22400.76,7586.79
+ORD1814,2024-11-01,Sneha Verma,Home Office,North,Delhi,ELECTRONICS,Power Bank,1,1027.21,0.0,1027.21,205.81
+ORD1562,2023-10-24,Divya Chauhan,Home Office,West,Ahmedabad,Furniture,Desk Lamp,5,877.34,0.0,4386.7,1325.47
+ORD1369,2023-08-17,Neha Reddy,Corporate,East,Patna,Stationery,Notebook Pack,1,202.42,0.05,202.42,30.42
+ORD1544,2024-11-21,Neha Reddy,Home Office,South,Hyderabad,Electronics,Laptop Stand,2,1358.3,0.15,2716.6,94.97
+ORD1478,2024-01-16,Rohan Das,Corporate,East,Patna,Electronics,USB Cable,4,191.3,0.0,765.2,257.64
+ORD2147,2024-07-27,Neha Reddy,Home Office,west,Pune,Furniture,Office Chair,1,5368.48,0.0,5368.48,1372.05
+ORD1533,2024-03-21,Manish Sharma,Consumer,South,Hyderabad,Clothing,T-Shirt,1,515.88,0.0,515.88,127.19
+ORD1626,2024-05-06,Rahul Gupta,Consumer,North,Chandigarh,Electronics,Wireless Mouse,3,604.89,0.0,1814.67,613.19
+ORD2140,2023-12-15,Siddharth Verma,Home Office,North,Lucknow,Furniture,Study Table,3,6363.66,0.0,19090.98,2213.0
+ORD1513,2024-01-20,Anjali Verma,Home Office,South,Hyderabad,Stationery,Notebook Pack,2,191.28,0.05,382.56,113.99
+ORD1831,2023-06-23,Divya Gupta,Consumer,South,Hyderabad,Electronics,Power Bank,1,1055.91,0.2,1055.91,42.89
+ORD1073,2024-07-16,Riya Verma,Consumer,East,Patna,Stationery,Sticky Notes,1,103.83,0.0,103.83,16.38
+ORD1808,2023-04-16,Anjali Iyer,Home Office,South,Hyderabad,Stationery,Pen Set,3,150.73,0.1,452.19,74.9
+ORD1259,2023-01-10,Siddharth Chauhan,Home Office,West,Mumbai,Electronics,Laptop Stand,2,1341.44,0.2,2682.88,-52.6
+ORD1625,2023-12-03,Sneha Mehta,Corporate,South,Chennai,Clothing,Jeans,2,1363.78,0.0,2727.56,940.9
+ORD1827,2023-02-14,Arjun Patel,Home Office, West ,Pune,Electronics,Wireless Mouse,2,628.5,0.0,1257.0,361.93
+ORD1235,2023-05-30,Siddharth Reddy,Consumer,North,Chandigarh,Clothing,Jeans,1,1352.5,0.1,1352.5,343.12
+ORD1136,2024-12-02,Anjali Singh,Consumer,East,Kolkata,Electronics,Webcam,3,1887.63,0.2,5662.89,618.41
+ORD1617,2023-11-28,Pooja Rao,Home Office,South,Chennai,Furniture,Study Table,3,5765.92,0.05,17297.76,4282.94
+ORD1517,2023-01-20,Rahul Sharma,Home Office,North,Delhi,Electronics,Webcam,3,1983.66,0.15,5950.98,268.93
+ORD1899,2023-11-16,Sneha Patel,Consumer,South,Hyderabad,Stationery,Stapler,4,136.95,0.05,547.8,155.52
+ORD1803,2024-12-27,Vikram Mehta,Corporate,South,Bangalore,Electronics,USB Cable,4,189.2,0.0,756.8,118.76
+ORD1810,2023-03-04,Divya Verma,Corporate,West,Pune,Furniture,Desk Lamp,2,879.97,0.05,1759.94,402.75
+ORD1593,2024-10-12,Divya Nair,Consumer,East,Kolkata,Stationery,Whiteboard,1,859.74,0.1,859.74,150.18
+ORD2074,2023-01-13,Kavya Rao,Consumer,North,Lucknow,Electronics,USB Cable,4,200.93,0.1,803.72,207.64
+ORD1502,2023-12-18,Riya Kapoor,Home Office,North,Lucknow,Stationery,Stapler,3,127.79,0.1,383.37,60.03
+ORD1539,2023-09-11,Vikram Kapoor,Consumer,West,Pune,Electronics,Power Bank,4,1004.65,0.0,4018.6,950.22
+ORD2084,2024-09-16,Karan Patel,Consumer,East,Bhubaneswar,Stationery,Sticky Notes,1,95.37,0.0,95.37,24.93
+ORD1729,2024-11-03,Riya Chauhan,Corporate,East,Patna,Stationery,Sticky Notes,1,99.99,0.1,99.99,14.82
+ORD1582,2024-06-07,Sneha Verma,Corporate,West,Pune,Furniture,Filing Cabinet,5,3541.54,0.0,17707.7,5088.48
+ORD1344,2023-03-18,Sneha Mehta,Consumer,South,Hyderabad,Clothing,Jacket,5,2519.86,0.0,12599.3,1599.16
+ORD1963,2024-11-28,Divya Patel,Consumer,West,Mumbai,Furniture,Desk Lamp,3,877.9,0.0,2633.7,513.96
+ORD1878,2024-05-21,Rohan Mehta,Consumer,North,Delhi,Electronics,Laptop Stand,1,1385.12,0.1,1385.12,382.89
+ORD1294,2023-02-08,Siddharth Sharma,Corporate,East,Bhubaneswar,Electronics,Power Bank,2,1012.11,0.0,2024.22,382.18
+ORD1365,2023-01-11,Anjali Singh,Home Office,East,Kolkata,Furniture,Filing Cabinet,1,3172.89,0.05,3172.89,900.96
+ORD1886,2023-07-04,Anjali Gupta,Consumer,East,Patna,Stationery,Stapler,1,128.46,0.1,128.46,18.75
+ORD1660,2024-06-16,Rohan Chauhan,Corporate,East,Patna,Stationery,Stapler,3,133.83,0.1,401.49,23.45
+ORD1015,2023-03-11,Amit Das,Consumer,South,Hyderabad,Electronics,Wireless Mouse,1,624.17,0.15,624.17,147.99
+ORD1687,2024-06-29,Manish Sharma,Corporate,East,Kolkata,Stationery,Notebook Pack,2,214.71,0.05,429.42,102.54
+ORD1087,2023-12-27,Vikram Joshi,Consumer,North,Lucknow,Stationery,Whiteboard,1,839.63,0.05,839.63,186.94
+ORD1371,2024-05-05,Pooja Sharma,Consumer,North,Lucknow,Electronics,Laptop Stand,2,1355.68,0.0,2711.36,649.41
+ORD1166,2024-11-09,Anjali Reddy,Home Office,West,Ahmedabad,Stationery,Pen Set,3,151.6,0.05,454.8,63.54
+ORD1132,2023-10-23,Pooja Joshi,Home Office,South,Bangalore,Furniture,Filing Cabinet,1,3360.4,0.0,3360.4,312.16
+ORD1336,2023-05-12,Karan Das,Corporate,West,Ahmedabad,Stationery,Pen Set,1,154.95,0.0,154.95,39.9
+ORD1060,2023-07-18,Divya Sharma,Home Office,West,Pune,Stationery,Stapler,5,132.56,0.0,662.8,117.61
+ORD1710,2024-08-20,Karan Mehta,Corporate,North,Delhi,Stationery,Whiteboard,1,805.22,0.0,805.22,175.79
+ORD1919,2023-11-05,Manish Das,Consumer,South,Hyderabad,Stationery,Whiteboard,3,773.14,0.0,2319.42,540.42
+ORD1677,2023-02-12,Divya Joshi,Consumer,South,Bangalore,Furniture,Study Table,2,6448.78,0.0,12897.56,
+ORD1355,2024-03-24,Rahul Reddy,Consumer,north,Chandigarh,Stationery,Whiteboard,1,822.05,0.0,822.05,248.24
+ORD2000,2023-08-27,Pooja Nair,Home Office,North,Delhi,Furniture,Study Table,3,6107.24,0.0,18321.72,3906.61
+ORD1425,2024-11-30,Divya Gupta,Corporate,South,Chennai,Stationery,Stapler,2,136.29,0.1,272.58,19.52
+ORD1293,2023-04-13,Sneha Singh,Corporate,West,Mumbai,Furniture,Desk Lamp,2,920.27,0.15,1840.54,288.83
+ORD1042,2024-10-14,Kavya Nair,Corporate,West,Mumbai,Stationery,Sticky Notes,4,99.84,0.1,399.36,68.19
+ORD1330,2024-02-18,Rahul Chauhan,Consumer,West,,Electronics,USB Cable,1,208.33,0.0,208.33,48.0
+ORD1615,2023-09-30,Vikram Mehta,Consumer,West,Mumbai,Electronics,Bluetooth Speaker,4,1461.18,0.0,5844.72,1247.41
+ORD1430,2024-07-25,Sneha Singh,Home Office,South,Bangalore,Furniture,Desk Lamp,4,920.67,0.1,3682.68,523.31
+ORD1080,2023-12-13,Karan Chauhan,Home Office,West,Ahmedabad,Clothing,T-Shirt,7,504.51,0.05,3531.57,813.87
+ORD1694,2024-03-14,Karan Joshi,Home Office,west,Mumbai,Clothing,T-Shirt,2,503.46,0.15,1006.92,173.38
+ORD1029,2023-09-13,Pooja Kapoor,Home Office,North,Chandigarh,Electronics,Wireless Mouse,1,639.05,0.05,639.05,96.17
+ORD1708,2024-05-21,Priya Iyer,Consumer,West,Mumbai,Electronics,Laptop Stand,2,1322.79,0.0,2645.58,626.79
+ORD1934,2023-11-28,Kavya Verma,Consumer,South,Bangalore,Electronics,Wireless Mouse,2,607.94,0.2,1215.88,241.12
+ORD1928,2024-05-19,Siddharth Rao,Consumer,South,Chennai,Furniture,Bookshelf,5,3627.69,0.0,18138.45,2798.74
+ORD1255,2023-09-08,Vikram Patel,,North,Delhi,Stationery,Notebook Pack,4,190.19,0.0,760.76,135.62
+ORD1161,2023-05-21,Manish Patel,Home Office,South,Bangalore,Stationery,Sticky Notes,1,100.49,0.1,100.49,24.83
+ORD1459,2023-10-20,Priya Rao,Home Office,North,Delhi,Electronics,USB Cable,4,211.93,0.0,847.72,135.21
+ORD1384,2023-06-29,Rohan Chauhan,Home Office,West,Ahmedabad,Stationery,Whiteboard,2,832.96,0.05,1665.92,289.07
+ORD1314,2023-03-08,Divya Reddy,Home Office,East,Bhubaneswar,Electronics,USB Cable,1,202.07,0.1,202.07,22.33
+ORD1085,2024-03-10,Divya Iyer,Corporate,South,Bangalore,Furniture,Bookshelf,1,3773.3,0.05,3773.3,672.95
+ORD1575,2024-08-15,Rohan Nair,Consumer,East,Kolkata,Clothing,Jeans,1,1319.31,0.1,1319.31,227.96
+ORD1763,2024-05-31,Amit Nair,Home Office,East,Patna,Electronics,Bluetooth Speaker,4,1593.56,0.0,6374.24,1366.89
+ORD1137,2023-07-24,Divya Das,Corporate,North,Lucknow,Stationery,Sticky Notes,1,94.53,0.15,94.53,8.53
+ORD1112,2023-12-29,Pooja Sharma,,West,Ahmedabad,Stationery,Stapler,2,131.92,0.0,263.84,73.97
+ORD1195,2024-01-04,Sneha Singh,Home Office,East,Bhubaneswar,Electronics,Webcam,1,1964.2,0.05,1964.2,371.75
+ORD1853,2023-03-31,Anjali Nair,Consumer,West,Mumbai,Stationery,Pen Set,1,156.39,0.0,156.39,31.72
+ORD1179,2024-09-02,Manish Das,Home Office,West,Ahmedabad,Stationery,Pen Set,2,156.31,0.15,312.62,8.47
+ORD1556,2024-05-05,Sneha Nair,Consumer,South,Hyderabad,Stationery,Sticky Notes,1,98.41,0.15,98.41,4.2
+ORD1724,2023-04-04,Manish Gupta,Home Office,East,Patna,CLOTHING,Cap,1,302.03,0.0,302.03,96.01
+ORD1860,2024-01-06,Rohan Sharma,Consumer,South,Chennai,Furniture,Filing Cabinet,1,3466.08,0.1,3466.08,1019.76
+ORD1497,2024-01-04,Vikram Patel,Consumer,South,Hyderabad,Electronics,Bluetooth Speaker,1,1460.73,0.1,1460.73,104.66
+ORD1892,2024-05-20,Manish Reddy,,East,Bhubaneswar,Stationery,Sticky Notes,3,95.08,0.05,285.24,45.98
+ORD1806,2023-12-17,Pooja Reddy,Corporate,East,Patna,Electronics,Power Bank,3,979.76,0.2,2939.28,526.44
+ORD1130,2023-01-29,Karan Singh,Consumer,West,Ahmedabad,Electronics,USB Cable,1,214.78,0.0,214.78,22.93
+ORD1716,2024-07-25,Vikram Nair,Home Office,East,Kolkata,Furniture,Study Table,2,5862.5,0.0,11725.0,1377.88
+ORD1338,2024-10-01,Vikram Rao,Home Office,East,Patna,Stationery,Stapler,2,133.16,0.05,266.32,80.89
+ORD1315,2024-01-03,Siddharth Sharma,Consumer,East,Bhubaneswar,Clothing,Jeans,4,1291.93,0.1,5167.72,385.09
+ORD1609,2023-04-13,Amit Gupta,Corporate,West,Ahmedabad,Furniture,Bookshelf,4,3650.37,0.1,14601.48,3191.74
+ORD1125,2023-06-16,Anjali Rao,Corporate,North,Lucknow,Electronics,Webcam,1,1836.4,0.0,1836.4,490.44
+ORD1196,2023-08-15,Pooja Nair,Consumer,West,Pune,Clothing,Jacket,1,2475.71,0.1,2475.71,85.11
+ORD1227,2024-09-02,Anjali Reddy,Home Office,East,Kolkata,Electronics,Power Bank,1,967.41,0.0,967.41,177.62
+ORD1690,2023-04-10,Rahul Kapoor,Home Office,North,Delhi,Electronics,Laptop Stand,2,1286.54,0.0,2573.08,505.93
+ORD1269,2023-09-09,Riya Sharma,Consumer,South,Chennai,Electronics,Bluetooth Speaker,2,1430.8,0.05,2861.6,542.85
+ORD1153,2024-05-24,Divya Reddy,Consumer,East,Patna,Electronics,Webcam,2,1906.89,0.15,3813.78,580.86
+ORD1585,2024-07-13,Pooja Verma,Corporate,West,Pune,Furniture,Filing Cabinet,4,3281.42,0.0,13125.68,3757.5
+ORD1938,2024-06-24,Riya Das,Corporate,North,Chandigarh,Electronics,Power Bank,3,1073.43,0.0,3220.29,981.38
+ORD1104,2024-08-23,Sneha Mehta,Corporate,North,Delhi,Furniture,Bookshelf,2,3693.3,0.2,7386.6,972.48
+ORD1594,2024-08-15,Amit Kapoor,Home Office, East ,Patna,Furniture,Desk Lamp,5,927.04,0.0,4635.2,792.37
+ORD2116,2024-09-28,Arjun Joshi,Home Office,South,Hyderabad,Clothing,Cap,1,301.62,0.0,301.62,59.95
+ORD1787,2023-06-17,Pooja Mehta,Consumer,South,Hyderabad,Electronics,Power Bank,2,1033.18,0.0,2066.36,250.94
+ORD2050,2024-09-11,Divya Nair,Consumer,East,Patna,STATIONERY,Pen Set,2,146.91,0.0,293.82,37.89
+ORD1885,2024-04-05,Arjun Kapoor,Corporate,West,Mumbai,Furniture,Bookshelf,3,3732.48,0.0,11197.44,997.86
+ORD1777,2024-10-30,Amit Singh,Corporate,North,Delhi,ELECTRONICS,Laptop Stand,6,1350.23,0.1,8101.38,2411.09
+ORD1936,2023-07-24,Divya Iyer,Consumer,North,Lucknow,Furniture,Desk Lamp,2,969.62,0.0,1939.24,412.28
+ORD1850,2024-04-19,Kavya Iyer,Home Office,west,Ahmedabad,Clothing,T-Shirt,1,492.87,0.0,492.87,
+ORD1895,2024-01-24,Vikram Kapoor,Corporate,North,Delhi,Clothing,T-Shirt,2,491.16,0.0,982.32,123.76
+ORD1228,2024-04-06,Rahul Reddy,Consumer,South,Hyderabad,Electronics,Laptop Stand,1,1257.74,0.05,1257.74,363.1
+ORD2138,2024-01-06,Karan Sharma,Consumer,South,Chennai,Clothing,Cap,3,297.68,0.1,893.04,258.1
+ORD1302,2023-01-09,Divya Rao,Home Office,North,Lucknow,Electronics,Bluetooth Speaker,2,1550.2,0.0,3100.4,757.28
+ORD1855,2024-02-15,Vikram Reddy,Corporate,South,Bangalore,Clothing,Cap,4,285.59,0.0,1142.36,282.52
+ORD1276,2024-01-09,Siddharth Kapoor,Consumer, South ,Hyderabad,Stationery,Pen Set,3,156.55,0.2,469.65,37.98
+ORD1127,2024-01-27,Anjali Chauhan,Consumer,East,Patna,Clothing,Cap,1,302.0,0.05,302.0,50.75
+ORD1406,2023-09-26,Siddharth Nair,Consumer,North,Delhi,Stationery,Stapler,1,135.38,0.05,135.38,10.53
+ORD1776,2023-12-13,Siddharth Iyer,Consumer,East,Bhubaneswar,Electronics,Wireless Mouse,4,578.19,0.0,2312.76,277.79
+ORD1822,2024-07-04,Sneha Rao,Home Office,North,Chandigarh,Electronics,Laptop Stand,5,1263.9,0.05,6319.5,1828.58
+ORD1712,2023-04-11,Rohan Gupta,Consumer,East,Patna,Furniture,Office Chair,4,5259.77,0.0,21039.08,3729.47
+ORD1766,2024-09-07,Siddharth Joshi,Home Office,West,Mumbai,Stationery,Whiteboard,4,849.62,0.0,3398.48,
+ORD1684,2024-10-02,Riya Gupta,Consumer,East,Patna,Clothing,Jacket,4,2436.27,0.1,9745.08,874.23
+ORD1750,2023-09-25,Vikram Nair,Consumer,North,Chandigarh,Stationery,Notebook Pack,2,207.09,0.05,414.18,128.38
+ORD2141,2023-02-11,Arjun Sharma,Corporate,East,Patna,Furniture,Office Chair,1,4959.5,0.0,4959.5,604.33
+ORD1037,2024-03-28,Anjali Joshi,Consumer,South,Chennai,Stationery,Stapler,2,133.53,0.05,267.06,51.55
+ORD1140,2023-03-23,Manish Kapoor,Home Office,West,Mumbai,Furniture,Desk Lamp,1,917.8,0.0,917.8,146.69
+ORD1304,2024-05-08,Karan Chauhan,Corporate,East,Patna,Stationery,Stapler,2,127.29,0.0,254.58,88.3
+ORD1268,2024-05-23,Anjali Gupta,Consumer,West,Mumbai,Electronics,Webcam,3,1910.98,0.0,5732.94,1516.18
+ORD1835,2023-05-11,Karan Reddy,Corporate,North,Lucknow,Furniture,Bookshelf,1,3389.86,0.0,3389.86,623.58
+ORD1534,2023-08-29,Karan Mehta,Consumer,North,Lucknow,Electronics,Wireless Mouse,1,606.82,0.1,606.82,115.31
+ORD1546,2024-11-27,Neha Reddy,Corporate,South,Hyderabad,Stationery,Whiteboard,2,795.69,0.0,1591.38,154.54
+ORD1213,2024-10-28,Rohan Reddy,Corporate,East,Patna,Electronics,Laptop Stand,4,1308.39,0.0,5233.56,871.8
+ORD1897,2023-10-31,Kavya Joshi,Home Office,West,Pune,Electronics,Power Bank,1,1011.74,0.0,1011.74,309.18
+ORD1469,2024-06-23,Rohan Kapoor,Consumer,North,Chandigarh,Furniture,Office Chair,1,5200.46,0.0,5200.46,710.69
+ORD1199,2023-08-12,Riya Joshi,Corporate,North,Delhi,Furniture,Desk Lamp,1,861.99,0.05,861.99,134.27
+ORD2168,2024-05-14,Siddharth Sharma,Home Office,North,Chandigarh,Stationery,Sticky Notes,4,97.63,0.0,390.52,32.34
+ORD1868,2024-07-09,Pooja Joshi,Corporate,North,Delhi,Furniture,Bookshelf,2,3404.51,0.0,6809.02,1068.73
+ORD1673,2023-07-05,Siddharth Verma,Corporate,South,Chennai,Clothing,Jeans,5,1244.0,0.0,6220.0,595.85
+ORD1917,2023-10-25,Kavya Singh,Home Office,East,Kolkata,Clothing,Jeans,4,1307.01,0.0,5228.04,1735.15
+ORD1528,2023-04-13,Siddharth Singh,Consumer,East,Patna,Electronics,Bluetooth Speaker,1,1604.44,0.1,1604.44,322.0
+ORD1676,2023-03-27,Vikram Gupta,Home Office, North ,Delhi,Stationery,Pen Set,2,147.45,0.1,294.9,48.69
+ORD2070,2024-05-01,Vikram Rao,Home Office,East,Patna,Electronics,Power Bank,2,969.61,0.1,1939.22,410.7
+ORD1815,2023-05-11,Arjun Singh,Home Office,East,Bhubaneswar,Stationery,Pen Set,1,151.89,0.0,151.89,34.73
+ORD1242,2023-04-15,Divya Patel,Corporate,North,Chandigarh,Stationery,Sticky Notes,1,94.96,0.0,94.96,17.02
+ORD1343,2024-03-29,Neha Singh,Home Office,North,Lucknow,Electronics,Webcam,4,2018.54,0.1,8074.16,2229.29
+ORD1550,2024-06-16,Karan Joshi,Home Office,North,Chandigarh,Electronics,Wireless Mouse,1,636.94,0.05,636.94,105.83
+ORD1387,2023-10-11,Siddharth Kapoor,Consumer,East,Patna,Stationery,Stapler,5,128.39,0.05,641.95,69.02
+ORD2120,2023-12-29,Priya Singh,Home Office,South,Bangalore,Stationery,Pen Set,3,156.58,0.05,469.74,45.08
+ORD1207,2023-08-22,Pooja Patel,Home Office,West,Pune,Electronics,Laptop Stand,2,1366.37,0.0,2732.74,913.03
+ORD1296,2024-03-29,Pooja Kapoor,Home Office,West,Ahmedabad,Stationery,Pen Set,5,144.15,0.1,720.75,84.06
+ORD1696,2023-02-15,Pooja Das,Home Office,East,Bhubaneswar,Furniture,Filing Cabinet,1,3324.74,0.0,3324.74,545.76
+ORD2055,2023-06-09,Neha Kapoor,Corporate,East,Bhubaneswar,Electronics,Laptop Stand,2,1310.29,0.05,2620.58,262.11
+ORD1074,2023-08-19,Manish Verma,Home Office,South,Hyderabad,Electronics,Webcam,2,1807.43,0.2,3614.86,818.73
+ORD1606,2023-09-03,Neha Singh,Home Office,North,Lucknow,Stationery,Notebook Pack,3,206.92,0.0,620.76,114.14
+ORD1105,2024-08-14,Riya Iyer,Consumer,West,Ahmedabad,Electronics,Laptop Stand,1,1335.44,0.05,1335.44,129.24
+ORD1982,2024-11-19,Priya Mehta,Consumer,East,Kolkata,Furniture,Bookshelf,3,3530.32,0.1,10590.96,1217.95
+ORD2012,2023-11-21,Rohan Patel,Home Office,West,Pune,Stationery,Sticky Notes,5,98.62,0.0,493.1,120.05
+ORD2187,2023-10-24,Vikram Patel,Corporate,East,Patna,Clothing,Cap,4,302.52,0.0,1210.08,280.39
+ORD1017,2023-02-25,Sneha Sharma,Corporate,South,Bangalore,Electronics,USB Cable,2,198.22,0.05,396.44,127.15
+ORD1440,2024-12-15,Rohan Reddy,Corporate,North,Lucknow,Electronics,Wireless Mouse,2,600.08,0.1,1200.16,
+ORD1092,2024-10-25,Divya Joshi,Corporate,South,Chennai,Electronics,Webcam,2,1885.02,0.05,3770.04,679.94
+ORD1089,2023-06-18,Riya Singh,Corporate,South,Hyderabad,Clothing,Jacket,4,2546.51,0.0,10186.04,3082.97
+ORD2054,2023-03-22,Neha Verma,Consumer,South,Hyderabad,Electronics,USB Cable,4,189.88,0.05,759.52,156.88
+ORD1909,2024-04-08,Arjun Joshi,Corporate,South,Bangalore,Stationery,Notebook Pack,3,196.93,0.0,590.79,103.22
+ORD1451,2023-05-22,Vikram Mehta,Consumer,South,Bangalore,Stationery,Stapler,3,131.63,0.0,394.89,106.77
+ORD1718,2023-12-05,Siddharth Mehta,Consumer,North,Lucknow,Stationery,Pen Set,7,144.53,0.05,1011.71,220.36
+ORD1103,2024-11-12,Riya Verma,Consumer,East,Bhubaneswar,Electronics,Power Bank,3,961.4,0.0,2884.2,349.6
+ORD1239,2024-03-14,Vikram Joshi,Corporate,West,Mumbai,Electronics,Bluetooth Speaker,1,1510.04,0.0,1510.04,401.55
+ORD1069,2023-01-22,Arjun Kapoor,Consumer,East,Kolkata,Electronics,Power Bank,2,1057.62,0.2,2115.24,341.65
+ORD1943,2024-11-10,Priya Gupta,Consumer,East,Kolkata,Electronics,Webcam,1,2005.68,0.0,2005.68,199.94
+ORD1247,2023-01-13,Vikram Mehta,Home Office,North,Delhi,Furniture,Filing Cabinet,4,3164.5,0.2,12658.0,2938.68
+ORD1939,2024-10-02,Vikram Singh,Home Office,East,Patna,Clothing,Jeans,3,1369.42,0.15,4108.26,651.86
+ORD2017,2024-10-25,Rahul Kapoor,,North,Lucknow,Clothing,Cap,4,303.11,0.1,1212.44,48.88
+ORD1158,2024-11-19,Sneha Mehta,Consumer,east,Kolkata,Electronics,USB Cable,4,204.51,0.0,818.04,67.25
+ORD1480,2023-04-11,Vikram Iyer,Home Office,West,Ahmedabad,Clothing,Jacket,1,2626.0,0.1,2626.0,743.86
+ORD1839,2023-02-27,Vikram Mehta,Home Office,South,Hyderabad,Clothing,Cap,3,293.48,0.1,880.44,
+ORD1646,2024-11-24,Priya Singh,Consumer,South,Hyderabad,Electronics,Wireless Mouse,1,596.99,0.0,596.99,186.29
+ORD1006,2023-09-08,Kavya Joshi,Corporate,East,Kolkata,Stationery,Notebook Pack,1,204.81,0.0,204.81,37.37
+ORD2094,2024-09-10,Sneha Joshi,Corporate,West,Pune,Electronics,Power Bank,1,1075.21,0.1,1075.21,38.97
+ORD1872,2024-01-19,Karan Gupta,Consumer,South,Bangalore,Clothing,Cap,1,285.32,0.1,285.32,48.54
+ORD1966,2023-03-21,Pooja Das,Home Office,North,Lucknow,Stationery,Sticky Notes,2,103.86,0.2,207.72,51.5
+ORD1019,2023-08-31,Rohan Chauhan,Corporate,North,Delhi,Stationery,Stapler,5,136.57,0.0,682.85,144.17
+ORD2011,2024-03-11,Sneha Iyer,Home Office,West,Mumbai,Electronics,Wireless Mouse,3,579.72,0.05,1739.16,249.25
+ORD1122,2024-11-02,Amit Nair,Home Office,South,Chennai,Electronics,Power Bank,2,967.42,0.0,1934.84,525.09
+ORD1947,2023-07-18,Kavya Iyer,Consumer,North,Chandigarh,Electronics,Webcam,1,2046.61,0.0,2046.61,671.04
+ORD1662,2023-09-28,Manish Rao,Corporate,East,Patna,Furniture,Filing Cabinet,3,3373.77,0.05,10121.31,2295.96
+ORD2003,2023-04-27,Anjali Joshi,Home Office,North,Delhi,Furniture,Office Chair,2,4857.06,0.0,9714.12,1889.68
+ORD1275,2023-07-01,Karan Sharma,Consumer,West,Mumbai,Electronics,Webcam,1,1853.79,0.15,1853.79,431.85
+ORD1434,2024-12-07,Vikram Verma,Consumer,South,Chennai,Electronics,Bluetooth Speaker,2,1465.91,0.15,2931.82,419.38
+ORD1812,2024-05-18,Sneha Joshi,Consumer,West,Pune,Clothing,T-Shirt,1,502.0,0.0,502.0,81.41
+ORD2146,2023-08-18,Priya Reddy,Home Office,South,Hyderabad,Electronics,Power Bank,2,1032.81,0.0,2065.62,485.52
+ORD1312,2023-05-13,Siddharth Mehta,Corporate,South,Hyderabad,Stationery,Sticky Notes,3,104.16,0.05,312.48,70.63
+ORD2130,2024-01-01,Riya Iyer,Home Office,East,Bhubaneswar,Stationery,Whiteboard,3,802.64,0.0,2407.92,258.38
+ORD2142,2023-08-10,Rahul Chauhan,Home Office,South,Hyderabad,Clothing,Jeans,2,1381.83,0.0,2763.66,442.56
+ORD1781,2023-07-04,Karan Verma,Consumer,North,Delhi,Clothing,T-Shirt,2,485.77,0.0,971.54,195.04
+ORD1547,2024-01-12,Amit Iyer,Corporate,North,Chandigarh,Stationery,Stapler,2,137.63,0.1,275.26,78.52
+ORD1182,2023-01-04,Priya Mehta,Corporate,North,Lucknow,Furniture,Bookshelf,1,3653.05,0.1,3653.05,679.99
+ORD1185,2024-04-19,Siddharth Chauhan,Consumer,South,Hyderabad,Clothing,T-Shirt,5,523.1,0.05,2615.5,528.33
+ORD1407,2023-06-24,Karan Chauhan,Corporate,South,Hyderabad,Electronics,Power Bank,2,965.47,0.0,1930.94,500.42
+ORD1720,2023-03-13,Rohan Iyer,Corporate,South,Bangalore,Stationery,Stapler,1,130.74,0.15,130.74,14.28
+ORD2024,2024-08-01,Rohan Nair,Consumer,South,Chennai,Electronics,Power Bank,1,986.33,0.0,986.33,139.08
+ORD1607,2024-02-07,Divya Verma,Consumer,north,Lucknow,Clothing,Cap,4,299.15,0.15,1196.6,302.55
+ORD1693,2024-11-24,Siddharth Mehta,Consumer,North,Chandigarh,Electronics,Webcam,1,1958.64,0.05,1958.64,
+ORD1521,2024-02-04,Neha Reddy,Consumer,South,Hyderabad,Electronics,USB Cable,1,206.14,0.15,206.14,36.13
+ORD1866,2024-11-26,Neha Sharma,Corporate,South,Hyderabad,Electronics,Laptop Stand,3,1269.47,0.2,3808.41,
+ORD2004,2023-05-01,Arjun Das,Corporate,West,Mumbai,Stationery,Stapler,1,129.56,0.0,129.56,20.66
+ORD1381,2023-05-22,Kavya Reddy,Home Office,West,Pune,Clothing,Jacket,1,2625.56,0.15,2625.56,
+ORD1993,2023-02-06,Sneha Das,Corporate,East,Bhubaneswar,Furniture,Filing Cabinet,4,3448.56,0.1,13794.24,3226.24
+ORD1411,2023-09-13,Siddharth Chauhan,,North,Lucknow,Electronics,USB Cable,2,211.87,0.0,423.74,118.23
+ORD1635,2024-04-05,Anjali Iyer,Consumer,West,Ahmedabad,Electronics,Webcam,3,1982.81,0.05,5948.43,752.89
+ORD1370,2024-10-20,Neha Kapoor,Home Office,North,Lucknow,Clothing,Cap,2,290.49,0.0,580.98,75.8
+ORD2088,2023-07-24,Manish Chauhan,Corporate,North,Chandigarh,Furniture,Study Table,2,5953.04,0.1,11906.08,2342.4
+ORD2102,2024-02-13,Sneha Verma,Consumer,North,Chandigarh,CLOTHING,Jeans,2,1298.29,0.0,2596.58,748.25
+ORD1428,2024-03-01,Priya Chauhan,Home Office,West,Mumbai,Furniture,Office Chair,3,4983.61,0.1,14950.83,
+ORD1877,2023-10-09,Sneha Verma,Corporate,South,Hyderabad,Stationery,Sticky Notes,2,103.96,0.15,207.92,36.26
+ORD1079,2024-03-26,Rahul Rao,Consumer,South,Hyderabad,Clothing,Jacket,4,2656.59,0.0,10626.36,3462.27
+ORD1863,2024-12-10,Rohan Verma,Home Office,West,Pune,Furniture,Desk Lamp,4,966.9,0.0,3867.6,319.78
+ORD1574,2023-04-03,Arjun Kapoor,Corporate,North,Lucknow,Electronics,Bluetooth Speaker,1,1460.06,0.0,1460.06,410.97
+ORD2010,2023-08-26,Vikram Patel,Consumer,East,Patna,Clothing,Cap,1,292.19,0.2,292.19,1.36
+ORD2193,2023-10-07,Priya Patel,Home Office,South,Hyderabad,Electronics,USB Cable,2,214.82,0.05,429.64,62.25
+ORD1608,2024-10-21,Amit Chauhan,Corporate,East,Kolkata,Clothing,Jeans,3,1388.72,0.1,4166.16,433.24
+ORD2072,2024-08-24,Neha Mehta,Corporate,West,Pune,Stationery,Pen Set,2,160.39,0.15,320.78,28.83
+ORD1684,2024-10-02,Riya Gupta,Consumer,East,Patna,Clothing,Jacket,4,2436.27,0.1,9745.08,874.23
+ORD2087,2023-01-20,Arjun Nair,Corporate,North,Chandigarh,Electronics,Bluetooth Speaker,3,1614.05,0.1,4842.15,409.63
+ORD1959,2024-04-22,Rohan Mehta,Consumer,East,Bhubaneswar,Stationery,Sticky Notes,2,100.01,0.0,200.02,35.37
+ORD1560,2024-03-10,Amit Patel,Consumer,West,Ahmedabad,Clothing,Cap,-3,295.27,0.1,885.81,125.64
+ORD1847,2023-10-03,Riya Sharma,Consumer,North,Chandigarh,Electronics,Bluetooth Speaker,1,1548.45,0.2,1548.45,205.16
+ORD1691,2023-02-25,Kavya Verma,Home Office,East,Bhubaneswar,Electronics,USB Cable,1,195.22,0.1,195.22,33.25
+ORD2175,2023-11-22,Rahul Kapoor,Home Office,North,Delhi,Stationery,Whiteboard,1,816.89,0.0,816.89,79.72
+ORD2128,2024-12-27,Sneha Verma,Home Office,West,Pune,Electronics,USB Cable,2,200.07,0.1,400.14,36.27
+ORD1437,2024-03-02,Kavya Rao,Home Office,West,Mumbai,Stationery,Whiteboard,3,795.19,0.15,2385.57,89.57
+ORD1491,2024-05-13,Karan Das,Consumer,South,Bangalore,Stationery,Notebook Pack,3,208.18,0.0,624.54,150.48
+ORD1336,2023-05-12,Karan Das,Corporate,West,Ahmedabad,Stationery,Pen Set,1,154.95,0.0,154.95,39.9
+ORD2109,2024-02-22,Anjali Patel,Consumer,North,Delhi,Electronics,USB Cable,4,189.94,0.0,759.76,138.12
+ORD1070,2024-08-22,Amit Reddy,Corporate,South,Chennai,Furniture,Study Table,1,6413.47,0.0,6413.47,1923.05
+ORD1809,2023-05-30,Amit Chauhan,Consumer,South,Bangalore,Electronics,USB Cable,5,190.04,0.0,950.2,234.17
+ORD1012,2023-11-11,Amit Verma,Home Office,North,Lucknow,Electronics,Wireless Mouse,1,577.76,0.0,577.76,183.19
+ORD1145,2023-07-24,Manish Patel,Home Office,West,Mumbai,Clothing,Jacket,5,2599.5,0.0,12997.5,4032.64
+ORD1918,2024-09-03,Karan Singh,Home Office,West,Pune,Electronics,Wireless Mouse,4,638.59,0.0,2554.36,593.26
+ORD1640,2024-08-06,Karan Sharma,Consumer,West,Pune,Furniture,Study Table,1,6155.45,0.1,6155.45,835.71
+ORD1177,2024-12-10,Divya Patel,Corporate,East,Bhubaneswar,Furniture,Filing Cabinet,2,3138.95,0.0,6277.9,702.63
+ORD1995,2024-12-21,Vikram Verma,Home Office,South,Hyderabad,Clothing,T-Shirt,3,479.01,0.0,1437.03,403.11
+ORD1441,2024-03-16,Amit Verma,Home Office,South,Hyderabad,Stationery,Stapler,1,126.68,0.0,126.68,41.74
+ORD1522,2024-08-30,Divya Reddy,Home Office,West,Ahmedabad,Electronics,Wireless Mouse,3,584.09,0.0,1752.27,324.11
+ORD2005,2024-09-20,Arjun Reddy,Corporate,East,Patna,Stationery,Pen Set,2,147.17,0.2,294.34,23.62
+ORD1144,2023-07-10,Sneha Nair,Corporate,East,Bhubaneswar,Electronics,Laptop Stand,1,1276.2,0.0,1276.2,235.44
+ORD1754,2023-10-23,Vikram Iyer,Corporate,West,Mumbai,Electronics,Power Bank,3,1003.31,0.0,3009.93,545.27
+ORD1520,2023-12-15,Divya Joshi,Consumer,East,Bhubaneswar,Electronics,Power Bank,2,960.82,0.1,1921.64,452.2
+ORD1823,2024-03-28,Siddharth Patel,Corporate,West,Ahmedabad,Electronics,Power Bank,2,1031.43,0.0,2062.86,314.74
+ORD1429,2023-08-10,Kavya Das,Corporate,East,Patna,Electronics,Wireless Mouse,1,634.03,0.2,634.03,3.95
+ORD1613,2023-07-23,Priya Mehta,Home Office,South,Bangalore,Clothing,Jeans,5,1387.19,0.0,6935.95,2150.11
+ORD2033,2023-12-21,Vikram Iyer,Consumer,East,Kolkata,Clothing,Jacket,2,2631.63,0.0,5263.26,1075.59
+ORD1157,2023-11-12,Manish Iyer,Consumer,East,Kolkata,Stationery,Sticky Notes,3,106.87,0.0,320.61,107.47
+ORD1540,2024-03-11,Sneha Reddy,Corporate,West,Mumbai,Electronics,USB Cable,2,208.03,0.05,416.06,76.72
+ORD1462,2024-01-07,Anjali Mehta,Home Office,South,Hyderabad,Stationery,Notebook Pack,2,192.0,0.0,384.0,104.05
+ORD1577,2023-04-26,Manish Verma,Home Office,South,Chennai,Clothing,Cap,1,292.38,0.1,292.38,33.58
+ORD1256,2023-03-21,Priya Patel,,West,Mumbai,Electronics,USB Cable,1,212.74,0.05,212.74,18.56
+ORD1980,2023-10-30,Sneha Reddy,Corporate,East,Patna,Furniture,Study Table,3,6105.28,0.1,18315.84,5095.09
+ORD2007,2023-12-05,Anjali Verma,Corporate,North,Chandigarh,Stationery,Pen Set,2,154.99,0.0,309.98,64.03
+ORD1561,2024-01-20,Arjun Mehta,Consumer,East,Bhubaneswar,Clothing,Jacket,5,2395.53,0.0,11977.65,2282.39
+ORD1209,2023-10-04,Manish Das,Home Office,East,Bhubaneswar,Electronics,Wireless Mouse,2,642.48,0.0,1284.96,167.81
+ORD1911,2024-05-24,Pooja Gupta,Consumer,North,Delhi,Clothing,Jeans,1,1345.4,0.0,1345.4,317.44
+ORD1002,2024-07-12,Arjun Singh,Consumer,South,Hyderabad,Stationery,Stapler,2,125.88,0.0,251.76,50.68
+ORD1270,2023-09-13,Rahul Mehta,Home Office,East,Bhubaneswar,Electronics,Bluetooth Speaker,3,1549.28,0.05,4647.84,1262.29
+ORD1266,2023-08-16,Neha Joshi,Home Office,South,Bangalore,Furniture,Desk Lamp,1,868.24,0.0,868.24,262.55
+ORD1915,2023-10-29,Sneha Sharma,Corporate,South,Hyderabad,Clothing,Jeans,1,1285.33,0.0,1285.33,178.25
+ORD1231,2024-03-27,Sneha Rao,Home Office,East,Patna,Stationery,Whiteboard,3,815.35,0.05,2446.05,788.21
+ORD2196,2023-04-20,Amit Patel,Home Office,North,Lucknow,Clothing,T-Shirt,1,475.54,0.0,475.54,60.78
+ORD1284,2023-06-10,Rohan Mehta,Home Office,West,Ahmedabad,Electronics,Power Bank,4,970.48,0.0,3881.92,657.58
+ORD1865,2024-08-15,Rohan Mehta,Home Office,North,Chandigarh,Clothing,Jeans,2,1341.16,0.0,2682.32,372.92
+ORD2067,2023-06-23,Vikram Iyer,Corporate,North,Delhi,Stationery,Stapler,1,135.19,0.0,135.19,34.78
+ORD1874,2023-05-10,Siddharth Chauhan,Home Office,South,Chennai,Clothing,Jeans,1,1307.91,0.05,1307.91,294.92
+ORD2081,2023-09-28,Arjun Joshi,Home Office,South,Chennai,Furniture,Filing Cabinet,2,3255.74,0.15,6511.48,470.36
+ORD1399,2024-10-07,Riya Nair,Corporate,South,Chennai,Stationery,Pen Set,3,149.71,0.05,449.13,62.99
+ORD2103,2024-01-02,Rohan Iyer,Consumer,North,Delhi,Stationery,Notebook Pack,3,213.39,0.1,640.17,73.98
+ORD1046,2024-02-19,Vikram Kapoor,Home Office,East,Bhubaneswar,Furniture,Study Table,2,5961.19,0.1,11922.38,3063.29
+ORD1162,2023-11-03,Riya Rao,Home Office,South,Chennai,Clothing,Jacket,7,2426.84,0.0,16987.88,5158.17
+ORD1992,2023-06-10,Kavya Nair,Consumer,North,Lucknow,Electronics,Bluetooth Speaker,1,1494.61,0.1,1494.61,204.45
+ORD1728,2023-07-19,Sneha Rao,Consumer,North,Lucknow,Stationery,Sticky Notes,3,98.96,0.0,296.88,
+ORD1630,2023-10-02,Pooja Singh,Corporate,North,Chandigarh,Furniture,Study Table,3,6046.44,0.05,18139.32,1439.54
+ORD1289,2024-03-04,Riya Kapoor,Consumer,West,Ahmedabad,Electronics,Wireless Mouse,3,634.52,0.2,1903.56,315.06
+ORD2060,2024-03-04,Kavya Patel,Home Office,East,Bhubaneswar,Stationery,Notebook Pack,2,198.97,0.0,397.94,100.21
+ORD2182,2024-04-19,Pooja Gupta,Home Office,South,Hyderabad,Electronics,Power Bank,2,1034.68,0.05,2069.36,540.67
+ORD1576,2024-05-01,Manish Joshi,Consumer,North,Lucknow,Electronics,Bluetooth Speaker,4,1603.42,0.0,6413.68,1533.72
+ORD1851,2024-10-29,Vikram Gupta,Corporate,South,Hyderabad,Electronics,Webcam,5,1931.51,0.15,9657.55,938.54
+ORD1912,2024-10-03,Anjali Nair,Home Office,North,Delhi,Clothing,Cap,7,308.88,0.15,2162.16,273.09
+ORD2096,2024-07-25,Amit Kapoor,Corporate,West,Pune,Furniture,Office Chair,2,5226.34,0.1,10452.68,1814.33
+ORD1933,2024-09-24,Rahul Chauhan,Home Office,East,Kolkata,Stationery,Stapler,1,138.57,0.1,138.57,6.69
+ORD1248,2023-03-16,Arjun Iyer,Consumer,West,Pune,Furniture,Desk Lamp,5,943.19,0.0,4715.95,463.27
+ORD1477,2024-08-07,Sneha Chauhan,Corporate,East,Kolkata,Electronics,USB Cable,3,205.26,0.05,615.78,65.02
+ORD1086,2024-12-17,Siddharth Nair,Consumer,West,Mumbai,Electronics,Webcam,2,1892.67,0.0,3785.34,1151.16
+ORD1470,2024-12-06,Divya Mehta,Home Office,North,Lucknow,Stationery,Stapler,4,139.11,0.15,556.44,150.96
+ORD1226,2024-09-21,Karan Verma,Consumer,West,Ahmedabad,Electronics,Power Bank,1,1040.74,0.05,1040.74,246.1
+ORD1775,2024-11-25,Anjali Sharma,Consumer,South,Hyderabad,Stationery,Whiteboard,2,834.46,0.0,1668.92,576.33
+ORD1332,2023-08-16,Divya Das,Home Office,West,Ahmedabad,Stationery,Sticky Notes,3,95.52,0.0,286.56,50.4
+ORD1234,2024-06-10,Sneha Patel,Corporate,South,Chennai,Clothing,Jacket,1,2468.05,0.2,2468.05,403.31
+ORD1589,2023-01-28,Siddharth Verma,Corporate,North,Lucknow,Electronics,Laptop Stand,3,1292.96,0.1,3878.88,771.09
+ORD1476,2024-08-14,Neha Verma,Consumer,East,Patna,Stationery,Whiteboard,1,816.72,0.05,816.72,221.23
+ORD1600,2023-02-13,Rahul Sharma,Consumer,East,Kolkata,Electronics,Laptop Stand,1,1345.28,0.2,1345.28,149.56
+ORD1422,2023-02-10,Divya Das,Home Office,South,Bangalore,Stationery,Whiteboard,1,834.29,0.0,834.29,165.29
+ORD1183,2023-10-21,Pooja Gupta,Corporate,North,Lucknow,Clothing,T-Shirt,3,538.02,0.0,1614.06,188.14
+ORD1989,2024-02-05,Arjun Sharma,Corporate,South,Chennai,Electronics,Laptop Stand,1,1278.23,0.1,1278.23,185.09
+ORD2001,2023-01-06,Riya Das,Corporate,East,Kolkata,Electronics,Power Bank,2,1022.47,0.0,2044.94,279.11
+ORD1050,2024-12-17,Sneha Singh,Consumer,South,Bangalore,Furniture,Office Chair,2,5115.56,0.1,10231.12,
+ORD2135,2023-10-11,Arjun Singh,Consumer,East,Bhubaneswar,Stationery,Whiteboard,6,795.65,0.1,4773.9,561.5
+ORD2030,2024-04-29,Neha Kapoor,Corporate,West,Ahmedabad,Furniture,Filing Cabinet,3,3431.9,0.1,10295.7,1010.99
+ORD1530,2023-06-28,Anjali Rao,Corporate,South,Bangalore,Stationery,Stapler,1,130.1,0.05,130.1,8.48
+ORD1487,2023-05-28,Neha Mehta,Consumer,East,Patna,Stationery,Sticky Notes,4,100.11,0.15,400.44,68.71
+ORD1498,2023-05-20,Pooja Chauhan,Corporate,North,Lucknow,Electronics,Power Bank,2,1063.97,0.0,2127.94,539.23
+ORD1107,2023-12-26,Siddharth Verma,Consumer,East,Kolkata,Electronics,Power Bank,4,1048.06,0.0,4192.24,497.53
+ORD1444,2023-12-06,Arjun Das,Corporate,North,Chandigarh,Stationery,Notebook Pack,2,196.94,0.1,393.88,34.35
+ORD1647,2023-09-22,Priya Singh,Home Office,East,Bhubaneswar,Electronics,Bluetooth Speaker,1,1447.57,0.2,1447.57,277.82
+ORD2037,2023-12-15,Siddharth Verma,Home Office,North,Delhi,Clothing,Jeans,3,1363.72,0.1,4091.16,797.17
+ORD1727,2024-02-24,Priya Reddy,Consumer,North,,Electronics,Wireless Mouse,3,608.33,0.0,1824.99,270.55
+ORD1191,2024-04-19,Pooja Das,Home Office,West,Mumbai,Stationery,Whiteboard,1,848.12,0.15,848.12,133.02
+ORD1283,2023-06-14,Amit Gupta,Home Office,East,Bhubaneswar,Clothing,T-Shirt,4,496.22,0.1,1984.88,352.72
+ORD1030,2023-12-07,Kavya Nair,Consumer,South,Bangalore,Clothing,Jeans,2,1382.89,0.1,2765.78,728.22
+ORD1170,2023-05-21,Kavya Iyer,Consumer,South,Bangalore,Stationery,Whiteboard,2,855.96,0.0,1711.92,479.41
+ORD2002,2023-03-25,Amit Mehta,Consumer,East,Patna,Electronics,USB Cable,2,207.39,0.15,414.78,49.75
+ORD1101,2024-09-14,Karan Mehta,Home Office,North,Chandigarh,Stationery,Sticky Notes,1,95.0,0.0,95.0,10.84
+ORD1198,2024-07-09,Priya Chauhan,Consumer,East,Kolkata,Electronics,Webcam,4,1924.6,0.2,7698.4,1835.71
+ORD1496,2024-02-08,Siddharth Mehta,Corporate,East,,Clothing,T-Shirt,3,489.31,0.05,1467.93,362.84
+ORD1648,2024-03-24,Sneha Verma,Home Office,East,Kolkata,Clothing,T-Shirt,4,519.87,0.1,2079.48,602.87
+ORD1988,2024-05-15,Rahul Nair,Corporate,North,Chandigarh,Stationery,Pen Set,2,156.54,0.05,313.08,75.31
+ORD1045,2024-03-05,Kavya Reddy,Consumer,West,Pune,Electronics,Laptop Stand,1,1284.48,0.05,1284.48,
+ORD1711,2023-07-03,Amit Gupta,Consumer,West,Pune,Furniture,Study Table,1,5946.28,0.0,5946.28,902.16
+ORD1374,2023-06-21,Manish Kapoor,Home Office,South,Hyderabad,Stationery,Pen Set,2,153.62,0.1,307.24,37.64
+ORD1679,2024-02-09,Arjun Mehta,Consumer,East,Kolkata,Electronics,Webcam,1,1943.06,0.05,1943.06,542.57
+ORD1567,2023-07-07,Anjali Das,Corporate,East,Patna,Stationery,Notebook Pack,3,202.34,0.1,607.02,116.35
+ORD1848,2024-02-12,Siddharth Rao,Corporate,East,Kolkata,Clothing,T-Shirt,3,537.66,0.05,1612.98,225.67
+ORD1461,2023-07-26,Karan Rao,Home Office,East,Bhubaneswar,Electronics,USB Cable,3,204.32,0.15,612.96,17.99
+ORD1040,2024-12-13,Sneha Reddy,Consumer,South,Hyderabad,Stationery,Notebook Pack,3,209.19,0.0,627.57,144.65
+ORD1435,2023-08-27,Siddharth Kapoor,Consumer,West,Pune,Electronics,Laptop Stand,2,1296.04,0.0,2592.08,417.54
+ORD1974,2024-05-03,Amit Patel,Consumer,east,Bhubaneswar,Clothing,Cap,2,312.84,0.1,625.68,142.67
+ORD2008,2024-03-12,Siddharth Nair,Home Office,South,Chennai,Stationery,Pen Set,3,146.87,0.05,440.61,60.61
+ORD1457,2023-11-17,Priya Das,Consumer,South,Chennai,Furniture,Office Chair,4,5144.13,0.05,20576.52,5256.61
+ORD1261,2023-04-08,Siddharth Verma,Home Office,West,Ahmedabad,Clothing,Cap,1,321.93,0.05,321.93,73.09
+ORD1036,2024-09-22,Rahul Nair,Corporate,South,Bangalore,Furniture,Study Table,4,6227.27,0.05,24909.08,4101.04
+ORD1828,2024-12-25,Manish Chauhan,Consumer,North,Delhi,Clothing,T-Shirt,3,509.23,0.0,1527.69,320.38
+ORD1310,2023-06-04,Pooja Kapoor,Corporate,North,Lucknow,Electronics,Laptop Stand,4,1303.81,0.0,5215.24,699.26
+ORD1277,2024-10-16,Neha Iyer,Home Office,East,Bhubaneswar,Electronics,Bluetooth Speaker,3,1566.76,0.05,4700.28,479.59
+ORD1637,2024-09-23,Siddharth Singh,Corporate, West ,Pune,Stationery,Stapler,1,134.72,0.0,134.72,35.29
+ORD1655,2023-05-31,Rohan Das,Home Office,East,Bhubaneswar,Electronics,Laptop Stand,2,1386.07,0.1,2772.14,417.13
+ORD1623,2024-12-27,Vikram Verma,Corporate,West,Mumbai,Clothing,Cap,3,285.64,0.0,856.92,182.62
+ORD1845,2023-11-17,Neha Joshi,Corporate,South,Hyderabad,Clothing,T-Shirt,3,527.02,0.1,1581.06,117.79
+ORD1394,2024-06-07,Vikram Sharma,Home Office,East,Patna,Electronics,Webcam,2,2018.52,0.0,4037.04,565.04
+ORD1108,2023-06-11,Amit Sharma,Consumer,North,Delhi,Stationery,Pen Set,2,148.84,0.0,297.68,81.81
+ORD1350,2024-05-13,Rohan Gupta,Home Office,East,Kolkata,Clothing,Jacket,2,2541.13,0.0,5082.26,1639.21
+ORD1525,2023-04-10,Amit Chauhan,Consumer,South,Bangalore,Electronics,Wireless Mouse,3,639.5,0.0,1918.5,241.9
+ORD1785,2024-09-29,Arjun Mehta,Home Office,East,Kolkata,Clothing,Jeans,1,1333.98,0.0,1333.98,304.76
+ORD1048,2024-03-07,Rahul Rao,,East,Bhubaneswar,Stationery,Sticky Notes,5,97.63,0.0,488.15,49.85
+ORD1204,2024-07-10,Karan Sharma,Consumer,West,Pune,Electronics,Wireless Mouse,1,622.35,0.05,622.35,39.76
+ORD1022,2023-05-03,Priya Kapoor,Consumer,North,Delhi,Electronics,Wireless Mouse,1,621.63,0.15,621.63,98.72
+ORD1403,2023-03-23,Karan Joshi,Corporate,East,Bhubaneswar,Stationery,Stapler,4,129.34,0.0,517.36,73.27
+ORD2108,2023-07-28,Arjun Kapoor,Corporate,South,Chennai,Clothing,T-Shirt,1,525.07,0.0,525.07,130.66
+ORD2155,2023-06-26,Anjali Das,Consumer,West,Pune,Electronics,Webcam,4,1943.13,0.0,7772.52,1924.75
+ORD1990,2024-02-24,Rohan Singh,Home Office,West,Ahmedabad,Electronics,Power Bank,1,1055.35,0.0,1055.35,333.93
+ORD1742,2023-07-17,Rohan Patel,Consumer,East,Kolkata,FURNITURE,Office Chair,2,4791.04,0.0,9582.08,3333.06
+ORD2148,2023-09-16,Riya Mehta,Home Office,South,Bangalore,Stationery,Notebook Pack,1,213.75,0.15,213.75,43.07
+ORD1034,2024-07-05,Rohan Gupta,Corporate, South ,Chennai,Electronics,USB Cable,4,189.09,0.05,756.36,233.62
+ORD1788,2023-03-09,Karan Singh,Corporate,South,Bangalore,Electronics,Webcam,2,1831.2,0.0,3662.4,380.97
+ORD1924,2024-10-17,Rahul Singh,Corporate,South,Hyderabad,Stationery,Sticky Notes,4,95.81,0.0,383.24,62.83
+ORD2044,2024-12-03,Divya Singh,Consumer,North,Delhi,Clothing,Cap,5,298.32,0.0,1491.6,255.23
+ORD2171,2023-02-06,Kavya Sharma,Corporate,West,Mumbai,Clothing,Cap,2,291.85,0.0,583.7,63.93
+ORD1580,2024-12-12,Anjali Verma,Corporate,North,Chandigarh,Furniture,Office Chair,3,4826.53,0.2,14479.59,2609.03
+ORD1482,2024-10-16,Arjun Das,Corporate,North,Delhi,Furniture,Bookshelf,3,3334.28,0.0,10002.84,1320.25
+ORD1932,2024-10-22,Anjali Kapoor,Home Office, South ,Chennai,Stationery,Whiteboard,2,854.97,0.0,1709.94,354.6
+ORD1357,2023-08-04,Neha Iyer,Corporate,North,Lucknow,Furniture,Filing Cabinet,1,3368.87,0.1,3368.87,922.93
+ORD1760,2023-09-12,Riya Das,Corporate,North,Lucknow,Electronics,Webcam,2,1873.04,0.0,3746.08,925.11
+ORD1093,2023-04-10,Siddharth Reddy,Corporate,North,Delhi,Electronics,Wireless Mouse,2,592.75,0.0,1185.5,266.9
+ORD1804,2023-09-30,Riya Singh,Home Office,East,Kolkata,Electronics,Bluetooth Speaker,5,1608.86,0.0,8044.3,1705.78
+ORD1746,2023-10-18,Karan Patel,Home Office,South,Hyderabad,Stationery,Whiteboard,2,798.57,0.05,1597.14,295.2
+ORD1280,2023-12-10,Amit Gupta,Corporate,South,Hyderabad,Clothing,T-Shirt,3,527.35,0.0,1582.05,216.13
+ORD1765,2023-08-14,Sneha Joshi,Consumer,North,Delhi,Clothing,Jacket,3,2667.29,0.1,8001.87,1678.81
+ORD1605,2024-01-07,Divya Sharma,Home Office,West,Pune,Stationery,Whiteboard,4,850.4,0.0,3401.6,609.87
+ORD2034,2023-09-08,Neha Sharma,Corporate,East,Bhubaneswar,Electronics,Bluetooth Speaker,2,1591.2,0.0,3182.4,731.77
+ORD1401,2023-12-26,Anjali Singh,Corporate,East,Patna,Furniture,Bookshelf,4,3480.59,0.0,13922.36,3278.6
+ORD1258,2023-07-20,Kavya Patel,Consumer,East,Patna,Stationery,Sticky Notes,5,98.79,0.1,493.95,87.71
+ORD1945,2023-08-22,Rohan Das,Home Office,South,Hyderabad,Electronics,USB Cable,3,196.9,0.0,590.7,56.08
+ORD2097,2023-06-05,Karan Reddy,Home Office,South,Bangalore,Stationery,Sticky Notes,2,104.57,0.05,209.14,15.63
+ORD2162,2024-12-01,Amit Nair,Home Office,West,Ahmedabad,Electronics,USB Cable,3,214.72,0.05,644.16,42.67
+ORD1495,2023-10-29,Priya Sharma,Home Office,North,Lucknow,Electronics,Webcam,1,1903.83,0.0,1903.83,434.45
+ORD1773,2023-10-17,Sneha Patel,Corporate,West,Pune,Stationery,Sticky Notes,3,94.97,0.1,284.91,50.7
+ORD1551,2023-11-08,Anjali Singh,Corporate,East,Bhubaneswar,Furniture,Filing Cabinet,4,3495.12,0.0,13980.48,4098.01
+ORD1202,2024-10-27,Riya Sharma,Home Office,South,Hyderabad,Electronics,Power Bank,1,1056.59,0.0,1056.59,192.72
+ORD1313,2023-11-26,Kavya Iyer,Home Office,West,Mumbai,Electronics,Bluetooth Speaker,7,1566.43,0.0,10965.01,2880.75
+ORD1291,2024-11-30,Vikram Chauhan,Home Office,South,Bangalore,Clothing,Jeans,3,1255.36,0.0,3766.08,1137.7
+ORD1764,2023-09-07,Amit Verma,Corporate,West,Mumbai,Clothing,T-Shirt,2,505.33,0.0,1010.66,286.4
+ORD2137,2024-02-20,Anjali Singh,Corporate,South,Chennai,Stationery,Notebook Pack,1,212.7,0.0,212.7,45.57
+ORD1950,2024-12-23,Manish Rao,Corporate,North,Lucknow,Electronics,Laptop Stand,2,1392.51,0.15,2785.02,659.67
+ORD1184,2023-05-17,Anjali Das,Corporate,West,Pune,Electronics,Power Bank,4,1074.26,0.05,4297.04,639.82
+ORD2177,2024-10-26,Divya Joshi,Home Office,North,Delhi,Stationery,Notebook Pack,2,203.63,0.15,407.26,72.94
+ORD2069,2023-05-24,Kavya Gupta,Home Office,West,Pune,Stationery,Whiteboard,2,818.07,0.0,1636.14,258.31
+ORD2031,2024-06-03,Arjun Kapoor,Corporate,West,Ahmedabad,Furniture,Office Chair,4,5379.92,0.0,21519.68,4196.15
+ORD1251,2024-03-20,Priya Nair,Home Office,West,Ahmedabad,Clothing,Jeans,1,1243.83,0.0,1243.83,305.14
+ORD1824,2024-05-22,Anjali Iyer,Home Office,South,Hyderabad,Stationery,Whiteboard,2,774.46,0.0,1548.92,201.29
+ORD2100,2023-03-12,Kavya Joshi,Consumer,North,Delhi,Furniture,Office Chair,2,5255.6,0.0,10511.2,1735.83
+ORD1941,2024-08-12,Divya Mehta,Home Office,East,Kolkata,Clothing,Jeans,1,1397.54,0.0,1397.54,307.17
+ORD1392,2023-09-05,Rohan Chauhan,Consumer,East,Kolkata,Clothing,Jeans,1,1318.32,0.15,1318.32,80.19
+ORD2093,2024-04-01,Karan Reddy,Consumer,South,Bangalore,Clothing,Jacket,1,2685.02,0.1,2685.02,236.28
+ORD2192,2024-06-16,Karan Patel,Consumer,West,Mumbai,Electronics,Laptop Stand,1,1266.48,0.15,1266.48,14.35
+ORD1905,2023-07-28,Divya Rao,Consumer,North,Delhi,Stationery,Whiteboard,1,810.48,0.0,810.48,127.86
+ORD1731,2024-06-29,Sneha Mehta,Home Office,South,Chennai,Electronics,Bluetooth Speaker,4,1563.27,0.0,6253.08,1676.58
+ORD1555,2024-06-03,Riya Nair,Home Office,South,Chennai,Clothing,Jeans,3,1234.78,0.0,3704.34,1001.92
+ORD1367,2024-06-14,Riya Reddy,Consumer,West,Mumbai,Electronics,Laptop Stand,2,1273.57,0.15,2547.14,261.18
+ORD1346,2024-05-17,Amit Singh,Home Office,East,Patna,Electronics,Power Bank,2,1029.0,0.1,2058.0,367.44
+ORD1536,2023-07-02,Rohan Joshi,Corporate,West,Mumbai,Clothing,Jeans,2,1270.55,0.0,2541.1,296.87
+ORD1665,2023-10-29,Pooja Sharma,Corporate,North,Lucknow,Electronics,Laptop Stand,2,1285.54,0.0,2571.08,304.87
+ORD1920,2024-12-02,Pooja Mehta,Corporate,West,Pune,Electronics,Webcam,2,1913.14,0.0,3826.28,747.93
+ORD1212,2024-09-23,Divya Sharma,Corporate,West,Mumbai,Electronics,Bluetooth Speaker,2,1564.53,0.0,3129.06,340.7
+ORD1503,2024-09-03,Arjun Sharma,Home Office,East,Bhubaneswar,Electronics,Laptop Stand,1,1282.89,0.1,1282.89,290.3
+ORD1538,2024-07-20,Riya Chauhan,Consumer,South,Chennai,Stationery,Stapler,2,137.74,0.15,275.48,7.81
+ORD1176,2023-11-28,Manish Singh,Corporate,East,Kolkata,Furniture,Office Chair,1,4869.13,0.0,4869.13,893.8
